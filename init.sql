@@ -1,0 +1,2 @@
+CREATE DATABASE eternal_path_of_chinese;
+CREATE DATABASE eternal_path_of_chinese_test;
