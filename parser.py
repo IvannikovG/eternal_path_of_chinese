@@ -1,13 +1,3 @@
-from telethon.sync import TelegramClient, events
-from pprint import pprint
-import json
-from resources import Message
-
-api_id = 19763055
-api_hash = 'e9fb0c49341d086e93f64db02abdf3c3'
-chat_id = -1001680578245
-
-
 def get_by_index(arr, index):
     try:
         el = arr[index]
@@ -22,12 +12,6 @@ def check_has_id(string: str) -> bool:
     else:
         idx = string.split(" ")[0]
         return idx.isdigit()
-
-
-with TelegramClient('name', api_id, api_hash) as client:
-    messages = client.get_messages(chat_id, limit=1000)
-    x = [mes.message for mes in messages]
-    print("Logging: ", "Unfiltered messages", len(x))
 
 
 def parse_langs(lang_array: list) -> dict:
@@ -68,8 +52,7 @@ def valid_line(line: str) -> bool:
         return True
 
 
-def parse_line(line):
-    print("LINE", line)
+def parse_line(line:str) -> dict:
     if not valid_line(line):
         return None
     elif line.startswith('#rule'):
@@ -84,38 +67,18 @@ def parse_line(line):
             'translation': parsed_translation}
 
 
-def parse_lines(lines):
+def parse_lines(lines: list) -> list:
     parsed_lines = []
     for line in lines:
         parsed_lines.append(parse_line(line))
     return parsed_lines
 
 
-def parse_message(message: str) -> dict:
+def parse_message(message_info: tuple) -> dict:
+    message, created = message_info
     message_lines = message.split("\n")
     header, *lines = message_lines
     examples = list(filter(lambda el: el, parse_lines(lines)))
     return {'resource': parse_header(header),
-            'examples': examples}
-
-
-filtered_messages = [message for message in x if check_has_id(message)]
-print("Logging: ", "Filtered messages", len(filtered_messages))
-
-result_json = []
-for message in filtered_messages:
-    result_json.append(parse_message(message))
-
-
-res = json.dumps(result_json)
-
-
-with open('resources.json', 'w', encoding='utf-8') as file:
-    js = file.write(res)
-
-with open('resources.json', 'r', encoding='utf-8') as file:
-    j = file.read()
-
-for item in json.loads(j):
-    m = Message(**item)
-    print(m.resource.translation)
+            'examples': examples,
+            'created': created}

@@ -1,5 +1,15 @@
 from pydantic import BaseModel
-from typing import List, Optional
+from datetime import datetime
+from typing import List, Optional, Callable
+
+
+class Job(BaseModel):
+    next: Optional[datetime]
+    type: str
+    name: str
+    action: str
+    active: bool
+    locked: bool
 
 
 class Translation(BaseModel):
@@ -15,7 +25,7 @@ class Examples(BaseModel):
     translation: Optional[Translation]
 
 
-class Resource(BaseModel):
+class MessageContent(BaseModel):
     hieroglyph_id = str
     chinese: str
     pinyin: str
@@ -25,4 +35,5 @@ class Resource(BaseModel):
 
 class Message(BaseModel):
     examples: Optional[List[Examples]] = None
-    resource: Resource = {}
+    resource: MessageContent = {}
+    created: str
