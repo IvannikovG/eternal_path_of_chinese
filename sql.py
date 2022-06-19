@@ -29,6 +29,19 @@ def exec_db(query):
     return True
 
 
+def update_resource(resourceType, idx, resource):
+    with psycopg2.connect(dsn=PgSettings().pg_dsn, cursor_factory=DictCursor) as pg_conn:
+        curs = pg_conn.cursor()
+        update_res = "update {resourceType} ".format(resourceType=resourceType)
+        set_part = "set resource = %s where id = %s returning resource;"
+        query = update_res + set_part
+        res = json.dumps(resource, default=str)
+        # print('QQ', query)
+        curs.execute(query, (res, idx,))
+        pg_conn.commit()
+        return curs.fetchall()
+
+
 def insert_resource(resourceType: str, resource: dict) -> dict:
     with psycopg2.connect(dsn=PgSettings().pg_dsn, cursor_factory=DictCursor) as pg_conn:
         curs = pg_conn.cursor()

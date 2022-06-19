@@ -8,8 +8,9 @@ class Job(BaseModel):
     type: str
     name: str
     action: str
-    active: bool
-    locked: bool
+    status: str
+    locked: str
+    period: int
 
 
 class Translation(BaseModel):

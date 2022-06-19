@@ -3,11 +3,7 @@ import os
 import json
 from datetime import datetime
 from telethon.sync import TelegramClient
-from resources import Message
 from parser import *
-from apscheduler.schedulers.background import BackgroundScheduler
-import psycopg2
-from sql import insert_resource
 
 
 api_id = 19763055
@@ -18,8 +14,22 @@ chat_id = -1001680578245
 # with open('resources.json', 'r', encoding='utf-8') as file:
 #     j = file.read()
 
-def test_job():
-    print(" TEST JOB WAS RUN")
+def test_job_1():
+    print(" TEST JOB 1 RUNNING")
+    time.sleep(5)
+    print(" TEST JOB 1 OK")
+
+
+def test_job_2():
+    print(" TEST JOB 2 RUNNING")
+    time.sleep(3)
+    print(" TEST JOB 2 OK")
+
+
+def test_job_3():
+    print(" TEST JOB 3 RUNNING")
+    time.sleep(2)
+    print(" TEST JOB 3 OK")
 
 
 def sync_messages_json():
@@ -45,11 +55,24 @@ def sync_messages_json():
             print("Logging: Can not produce js file")
 
 
-global_jobs = [{"name": "test_job",
-                "action": test_job.__name__,
+global_jobs = [{"name": "test_job_1",
+                "action": test_job_1.__name__,
                 "type": "periodic",
-                "locked": False,
-                "active": True}]
+                "locked": 'false',
+                "status": 'active',
+                'period': 1},
+               {"name": "test_job_2",
+                "action": test_job_2.__name__,
+                "type": "periodic",
+                "locked": 'false',
+                "status": 'active',
+                'period': 2},
+               {"name": "test_job_3",
+                "action": test_job_3.__name__,
+                "type": "periodic",
+                "locked": 'false',
+                "status": 'active',
+                'period': 3}]
 
 
 
