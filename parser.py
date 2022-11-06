@@ -73,7 +73,7 @@ def parse_line(line:str) -> Dict[str, Union[dict, str]]:
 
 def parse_graphemes(line:str) -> list:
     _, graphemes = line.split(":")
-    graphemes_list = graphemes.split("-")
+    graphemes_list = list(map(lambda el: el.strip(), graphemes.split("-")))
     return graphemes_list
 
 
