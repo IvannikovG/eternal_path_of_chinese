@@ -1,3 +1,6 @@
+from typing import Dict, Union
+
+
 def get_by_index(arr, index):
     try:
         el = arr[index]
@@ -16,7 +19,8 @@ def check_has_id(string: str) -> bool:
 
 def parse_langs(lang_array: list) -> dict:
     lang_dict = {'ru': [], 'en': [], 'de': [], 'srb': [], 'esp': []}
-    for i in lang_array:
+    l_a = [s.strip() for s in lang_array]
+    for i in l_a:
         try:
             lang, word = i.split(':')
             lang_dict[lang] = lang_dict[lang.strip()] + [word.strip()]
@@ -52,7 +56,7 @@ def valid_line(line: str) -> bool:
         return True
 
 
-def parse_line(line:str) -> dict:
+def parse_line(line:str) -> Dict[str, Union[dict, str]]:
     if not valid_line(line):
         return None
     elif line.startswith('#rule'):
@@ -67,18 +71,44 @@ def parse_line(line:str) -> dict:
             'translation': parsed_translation}
 
 
-def parse_lines(lines: list) -> list:
+def parse_graphemes(line:str) -> list:
+    _, graphemes = line.split(":")
+    graphemes_list = graphemes.split("-")
+    return graphemes_list
+
+
+def contains_graphemes_bool(lines: list) -> bool:
+    try:
+        return lines[-1].startswith("graphemes")
+    except:
+        return False
+
+
+def parse_lines(lines: list) -> tuple:
     parsed_lines = []
-    for line in lines:
-        parsed_lines.append(parse_line(line))
-    return parsed_lines
+    contains_graphemes = contains_graphemes_bool(lines)
+    if contains_graphemes:
+        graphemes = parse_graphemes(lines[-1])
+        for line in lines[:-1 or None]:
+            parsed_lines.append(parse_line(line))
+        return graphemes, parsed_lines
+    else:
+        for line in lines:
+            parsed_lines.append(parse_line(line))
+        return "No graphemes", parsed_lines
 
 
 def parse_message(message_info: tuple) -> dict:
     message, created = message_info
     message_lines = message.split("\n")
     header, *lines = message_lines
-    examples = list(filter(lambda el: el, parse_lines(lines)))
-    return {'resource': parse_header(header),
-            'examples': examples,
-            'created': created}
+    graphemes, parsed_lines = parse_lines(lines)
+    examples = list(filter(lambda el: el, parsed_lines))
+    message_template = {'resource': parse_header(header),
+                        'examples': examples,
+                        'created': created}
+    if graphemes == "No graphemes":
+        return message_template
+    else:
+        message_template['graphemes'] = graphemes
+        return message_template

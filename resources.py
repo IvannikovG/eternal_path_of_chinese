@@ -28,13 +28,17 @@ class Examples(BaseModel):
 
 class MessageContent(BaseModel):
     hieroglyph_id = str
-    chinese: str
-    pinyin: str
-    translation: Translation
+    chinese: str = ''
+    pinyin: str = ''
+    translation: Translation = ''
     rule: str = None
 
 
 class Message(BaseModel):
     examples: Optional[List[Examples]] = None
+    graphemes: Optional[List[str]] = None
     resource: MessageContent = {}
-    created: str
+    created: str = ''
+
+    class Config:
+        orm_mode = True

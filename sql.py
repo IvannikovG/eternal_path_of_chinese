@@ -65,9 +65,11 @@ def insert_resource(resourceType: str, resource: dict) -> dict:
 def load_json_to_db(j_obj):
     with psycopg2.connect(dsn=PgSettings().pg_dsn, cursor_factory=DictCursor) as pg_conn:
         curs = pg_conn.cursor()
+        truncate_query = "truncate chinese_record"
+        curs.execute(truncate_query)
         for item in j_obj:
             my_json = json.dumps(item)
-            insert_query = "insert into chinese_record (resource) values (%s) returning resource"
+            insert_query = "insert into chinese_record (resource, ts) values (%s, now()) returning resource"
             curs.execute(insert_query, (my_json,))
             print(curs.fetchone()[0])
 
@@ -85,11 +87,6 @@ def create_table(resourceType: str) -> None:
             resource      jsonb           not null)""" % (resourceType, resourceType))
 
 
-create_table("Job")
-
-print(query_db("select * from Job"))
-
-# with open('resources.json', 'r', encoding='utf-8') as file:
-#     j = file.read()
-
-# load_json_to_db(json.loads(j))
+with open('resources.json', 'r', encoding='utf-8') as file:
+    j = file.read()
+    load_json_to_db(json.loads(j))
