@@ -1,0 +1,3944 @@
+[
+    {
+        "resource": {
+            "chinese": {
+                "general": "百"
+            },
+            "hieroglyph_id": "229",
+            "pinyin": "băi",
+            "raw_pinyin": "bai",
+            "translation": {
+                "ru": " сто"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "王"
+            },
+            "hieroglyph_id": "228",
+            "pinyin": "wáng",
+            "raw_pinyin": "wang",
+            "translation": {
+                "ru": " король"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "束"
+            },
+            "hieroglyph_id": "227",
+            "pinyin": "shù",
+            "raw_pinyin": "shu",
+            "translation": {
+                "ru": ""
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "天"
+            },
+            "hieroglyph_id": "226",
+            "pinyin": "tiān",
+            "raw_pinyin": "tian",
+            "translation": {
+                "ru": " небо"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "去"
+            },
+            "hieroglyph_id": "225",
+            "pinyin": "qù",
+            "raw_pinyin": "qu",
+            "translation": {
+                "de": [],
+                "en": [
+                    "go"
+                ],
+                "esp": [],
+                "ru": [
+                    "идти"
+                ],
+                "srb": []
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "七"
+            },
+            "hieroglyph_id": "224",
+            "pinyin": "qí",
+            "raw_pinyin": "qi",
+            "translation": {
+                "ru": " семь"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "不"
+            },
+            "hieroglyph_id": "223",
+            "pinyin": "bù",
+            "raw_pinyin": "bu",
+            "translation": {
+                "ru": " нет"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "良"
+            },
+            "hieroglyph_id": "222",
+            "pinyin": "liáng",
+            "raw_pinyin": "liang",
+            "translation": {
+                "ru": ""
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "且"
+            },
+            "hieroglyph_id": "221",
+            "pinyin": "qiē",
+            "raw_pinyin": "qie",
+            "translation": {
+                "ru": ""
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "也"
+            },
+            "hieroglyph_id": "220",
+            "pinyin": "yě",
+            "raw_pinyin": "ye",
+            "translation": {
+                "ru": " тоже"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "下"
+            },
+            "hieroglyph_id": "219",
+            "pinyin": "xià",
+            "raw_pinyin": "xia",
+            "translation": {
+                "ru": " вниз"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "上"
+            },
+            "hieroglyph_id": "218",
+            "pinyin": "shàng",
+            "raw_pinyin": "shang",
+            "translation": {
+                "ru": " вверх"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "由"
+            },
+            "hieroglyph_id": "217",
+            "pinyin": "yóu",
+            "raw_pinyin": "you",
+            "translation": {
+                "ru": ""
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "中"
+            },
+            "hieroglyph_id": "216",
+            "pinyin": "zhōng",
+            "raw_pinyin": "zhong",
+            "translation": {
+                "ru": " середина"
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "凡"
+            },
+            "hieroglyph_id": "215",
+            "pinyin": "fán",
+            "raw_pinyin": "fan",
+            "translation": {
+                "ru": ""
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "龠"
+            },
+            "hieroglyph_id": "214",
+            "pinyin": "yuè",
+            "raw_pinyin": "yue",
+            "translation": {
+                "ru": " флейта "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "龜"
+                ],
+                "general": "龟"
+            },
+            "hieroglyph_id": "213",
+            "pinyin": "guī",
+            "raw_pinyin": "gui",
+            "translation": {
+                "ru": " черепаха "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "龍"
+                ],
+                "general": "龙"
+            },
+            "hieroglyph_id": "212",
+            "pinyin": "lóng",
+            "raw_pinyin": "long",
+            "translation": {
+                "ru": " дракон "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "齒"
+                ],
+                "general": "齿"
+            },
+            "hieroglyph_id": "211",
+            "pinyin": "chǐ",
+            "raw_pinyin": "chi",
+            "translation": {
+                "ru": " зубы "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "齊"
+                ],
+                "general": "齐"
+            },
+            "hieroglyph_id": "210",
+            "pinyin": "qí",
+            "raw_pinyin": "qi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "ровный",
+                    "одинаковый"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鼻"
+            },
+            "hieroglyph_id": "209",
+            "pinyin": "bí",
+            "raw_pinyin": "bi",
+            "translation": {
+                "ru": " нос "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鼠"
+            },
+            "hieroglyph_id": "208",
+            "pinyin": "shǔ",
+            "raw_pinyin": "shu",
+            "translation": {
+                "ru": " мышь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鼓"
+            },
+            "hieroglyph_id": "207",
+            "pinyin": "gǔ",
+            "raw_pinyin": "gu",
+            "translation": {
+                "ru": " барабан "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鼎"
+            },
+            "hieroglyph_id": "206",
+            "pinyin": "dǐng",
+            "raw_pinyin": "ding",
+            "translation": {
+                "ru": " бронзовый треножник "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "黽"
+                ],
+                "general": "黾"
+            },
+            "hieroglyph_id": "205",
+            "pinyin": "mǐn",
+            "raw_pinyin": "min",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "лягушка",
+                    "жаба"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "黹"
+            },
+            "hieroglyph_id": "204",
+            "pinyin": "zhǐ",
+            "raw_pinyin": "zhi",
+            "translation": {
+                "ru": " вышивка "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "黑"
+            },
+            "hieroglyph_id": "203",
+            "pinyin": "hēi",
+            "raw_pinyin": "hei",
+            "translation": {
+                "ru": " черный "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "黍"
+            },
+            "hieroglyph_id": "202",
+            "pinyin": "shǔ",
+            "raw_pinyin": "shu",
+            "translation": {
+                "ru": " просо "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "黃"
+            },
+            "hieroglyph_id": "201",
+            "pinyin": "huáng",
+            "raw_pinyin": "huang",
+            "translation": {
+                "ru": " желтый "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "麻"
+            },
+            "hieroglyph_id": "200",
+            "pinyin": "má",
+            "raw_pinyin": "ma",
+            "translation": {
+                "ru": " конопля "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "麥"
+                ],
+                "general": "麦"
+            },
+            "hieroglyph_id": "199",
+            "pinyin": "mài",
+            "raw_pinyin": "mai",
+            "translation": {
+                "ru": " пшеница "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鹿"
+            },
+            "hieroglyph_id": "198",
+            "pinyin": "lù",
+            "raw_pinyin": "lu",
+            "translation": {
+                "ru": " олень "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "鹵"
+                ],
+                "general": "卤"
+            },
+            "hieroglyph_id": "197",
+            "pinyin": "lǔ",
+            "raw_pinyin": "lu",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "соляная мель",
+                    "солончак"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "鳥"
+                ],
+                "general": "鸟"
+            },
+            "hieroglyph_id": "196",
+            "pinyin": "niǎo",
+            "raw_pinyin": "niao",
+            "translation": {
+                "ru": " птица "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "魚"
+                ],
+                "general": "鱼"
+            },
+            "hieroglyph_id": "195",
+            "pinyin": "yú",
+            "raw_pinyin": "yu",
+            "translation": {
+                "ru": " рыба "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鬼"
+            },
+            "hieroglyph_id": "194",
+            "pinyin": "guǐ",
+            "raw_pinyin": "gui",
+            "translation": {
+                "ru": " черт "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鬲"
+            },
+            "hieroglyph_id": "193",
+            "pinyin": "lì",
+            "raw_pinyin": "li",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "кувшин",
+                    "трипод"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "鬯"
+            },
+            "hieroglyph_id": "192",
+            "pinyin": "chàng",
+            "raw_pinyin": "chang",
+            "translation": {
+                "ru": " жертвенное вино "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "鬥"
+                ],
+                "general": "斗"
+            },
+            "hieroglyph_id": "191",
+            "pinyin": "dòu",
+            "raw_pinyin": "dou",
+            "translation": {
+                "ru": " борьба "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "髟"
+            },
+            "hieroglyph_id": "190",
+            "pinyin": "biāo",
+            "raw_pinyin": "biao",
+            "translation": {
+                "ru": " волосы "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "髙"
+                ],
+                "general": "高"
+            },
+            "hieroglyph_id": "189",
+            "pinyin": "gāo",
+            "raw_pinyin": "gao",
+            "translation": {
+                "ru": " высокий "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "骨"
+            },
+            "hieroglyph_id": "188",
+            "pinyin": "gǔ",
+            "raw_pinyin": "gu",
+            "translation": {
+                "ru": " кости "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "馬"
+                ],
+                "general": "马"
+            },
+            "hieroglyph_id": "187",
+            "pinyin": "mǎ",
+            "raw_pinyin": "ma",
+            "translation": {
+                "ru": " лошадь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "香"
+            },
+            "hieroglyph_id": "186",
+            "pinyin": "xiāng",
+            "raw_pinyin": "xiang",
+            "translation": {
+                "ru": " аромат "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "首"
+            },
+            "hieroglyph_id": "185",
+            "pinyin": "shǒu",
+            "raw_pinyin": "shou",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "голова",
+                    "глава"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "飠",
+                    "食"
+                ],
+                "general": "饣"
+            },
+            "hieroglyph_id": "184",
+            "pinyin": "shí",
+            "raw_pinyin": "shi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "еда",
+                    "пища"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "飛"
+                ],
+                "general": "飞"
+            },
+            "hieroglyph_id": "183",
+            "pinyin": "fēi",
+            "raw_pinyin": "fei",
+            "translation": {
+                "ru": " летать "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "風"
+                ],
+                "general": "风"
+            },
+            "hieroglyph_id": "182",
+            "pinyin": "fēng",
+            "raw_pinyin": "feng",
+            "translation": {
+                "ru": " ветер "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "頁"
+                ],
+                "general": "页"
+            },
+            "hieroglyph_id": "181",
+            "pinyin": "yè",
+            "raw_pinyin": "ye",
+            "translation": {
+                "ru": " страница "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "音"
+            },
+            "hieroglyph_id": "180",
+            "pinyin": "yīn",
+            "raw_pinyin": "yin",
+            "translation": {
+                "ru": " звук "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "韭"
+            },
+            "hieroglyph_id": "179",
+            "pinyin": "jiǔ",
+            "raw_pinyin": "jiu",
+            "translation": {
+                "ru": " дикий чеснок "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "韋"
+                ],
+                "general": "韦"
+            },
+            "hieroglyph_id": "178",
+            "pinyin": "wéi",
+            "raw_pinyin": "wei",
+            "translation": {
+                "ru": " выделанная кожа "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "革"
+            },
+            "hieroglyph_id": "177",
+            "pinyin": "gé",
+            "raw_pinyin": "ge",
+            "translation": {
+                "ru": " сырая кожа "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "靣"
+                ],
+                "general": "面"
+            },
+            "hieroglyph_id": "176",
+            "pinyin": "miàn",
+            "raw_pinyin": "mian",
+            "translation": {
+                "ru": " лицо "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "非"
+            },
+            "hieroglyph_id": "175",
+            "pinyin": "fēi",
+            "raw_pinyin": "fei",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "не быть",
+                    "отрицать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "靑"
+                ],
+                "general": "青"
+            },
+            "hieroglyph_id": "174",
+            "pinyin": "qīng",
+            "raw_pinyin": "qing",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "синий",
+                    "зелёный"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "雨"
+            },
+            "hieroglyph_id": "173",
+            "pinyin": "yǔ",
+            "raw_pinyin": "yu",
+            "translation": {
+                "ru": " дождь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "隹"
+            },
+            "hieroglyph_id": "172",
+            "pinyin": "zhuī",
+            "raw_pinyin": "zhui",
+            "translation": {
+                "ru": " короткохвостая птица "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "隶"
+            },
+            "hieroglyph_id": "171",
+            "pinyin": "lì",
+            "raw_pinyin": "li",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "достигать",
+                    "поймать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "阜"
+                ],
+                "general": "阝"
+            },
+            "hieroglyph_id": "170",
+            "pinyin": "fù",
+            "raw_pinyin": "fu",
+            "translation": {
+                "ru": " холм "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "門"
+                ],
+                "general": "门"
+            },
+            "hieroglyph_id": "169",
+            "pinyin": "mén",
+            "raw_pinyin": "men",
+            "translation": {
+                "ru": " ворота "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "镸",
+                    "長"
+                ],
+                "general": "长"
+            },
+            "hieroglyph_id": "168",
+            "pinyin": "cháng",
+            "raw_pinyin": "chang",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "длинный",
+                    "старший"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "釒",
+                    "金"
+                ],
+                "general": "钅"
+            },
+            "hieroglyph_id": "167",
+            "pinyin": "jīn",
+            "raw_pinyin": "jin",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "золото",
+                    "металл"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "里"
+            },
+            "hieroglyph_id": "166",
+            "pinyin": "lǐ",
+            "raw_pinyin": "li",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "верста",
+                    "деревня"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "釆"
+            },
+            "hieroglyph_id": "165",
+            "pinyin": "biàn",
+            "raw_pinyin": "bian",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "различать",
+                    "сортировать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "酉"
+            },
+            "hieroglyph_id": "164",
+            "pinyin": "yǒu",
+            "raw_pinyin": "you",
+            "translation": {
+                "ru": " сосуд для вина "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "阝"
+                ],
+                "general": "邑"
+            },
+            "hieroglyph_id": "163",
+            "pinyin": "yì",
+            "raw_pinyin": "yi",
+            "translation": {
+                "ru": " город "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "辶",
+                    "⻌",
+                    "⻍"
+                ],
+                "general": "辵"
+            },
+            "hieroglyph_id": "162",
+            "pinyin": "chuò",
+            "raw_pinyin": "chuo",
+            "translation": {
+                "ru": " идти быстро "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "辰"
+            },
+            "hieroglyph_id": "161",
+            "pinyin": "chén",
+            "raw_pinyin": "chen",
+            "translation": {
+                "ru": " время (циклический знак) "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "辛"
+            },
+            "hieroglyph_id": "160",
+            "pinyin": "xīn",
+            "raw_pinyin": "xin",
+            "translation": {
+                "ru": " горький "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "車"
+                ],
+                "general": "车"
+            },
+            "hieroglyph_id": "159",
+            "pinyin": "chē",
+            "raw_pinyin": "che",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "телега",
+                    "повозка"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "身"
+            },
+            "hieroglyph_id": "158",
+            "pinyin": "shēn",
+            "raw_pinyin": "shen",
+            "translation": {
+                "ru": " тело (человека) "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⻊"
+                ],
+                "general": "足"
+            },
+            "hieroglyph_id": "157",
+            "pinyin": "zú",
+            "raw_pinyin": "zu",
+            "translation": {
+                "ru": " нога "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "赱"
+                ],
+                "general": "走"
+            },
+            "hieroglyph_id": "156",
+            "pinyin": "zǒu",
+            "raw_pinyin": "zou",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "ходить",
+                    "уходить"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "赤"
+            },
+            "hieroglyph_id": "155",
+            "pinyin": "chì",
+            "raw_pinyin": "chi",
+            "translation": {
+                "ru": " красный "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "貝"
+                ],
+                "general": "贝"
+            },
+            "hieroglyph_id": "154",
+            "pinyin": "bèi",
+            "raw_pinyin": "bei",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "раковина",
+                    "сокровище"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "豸"
+            },
+            "hieroglyph_id": "153",
+            "pinyin": "zhì",
+            "raw_pinyin": "zhi",
+            "translation": {
+                "ru": " единорог "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "豕"
+            },
+            "hieroglyph_id": "152",
+            "pinyin": "shǐ",
+            "raw_pinyin": "shi",
+            "translation": {
+                "ru": " свинья "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "豆"
+            },
+            "hieroglyph_id": "151",
+            "pinyin": "dòu",
+            "raw_pinyin": "dou",
+            "translation": {
+                "ru": " бобы "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "谷"
+            },
+            "hieroglyph_id": "150",
+            "pinyin": "gǔ",
+            "raw_pinyin": "gu",
+            "translation": {
+                "ru": " долина "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "訁",
+                    "言",
+                    "讠"
+                ],
+                "general": "言"
+            },
+            "hieroglyph_id": "149",
+            "pinyin": "yán",
+            "raw_pinyin": "yan",
+            "translation": {
+                "ru": " речь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "角"
+            },
+            "hieroglyph_id": "148",
+            "pinyin": "jiǎo",
+            "raw_pinyin": "jiao",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "рог",
+                    "угол"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "見"
+                ],
+                "general": "见"
+            },
+            "hieroglyph_id": "147",
+            "pinyin": "jiàn",
+            "raw_pinyin": "jian",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "видеть",
+                    "смотреть"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "西",
+                    "覀"
+                ],
+                "general": "襾"
+            },
+            "hieroglyph_id": "146",
+            "pinyin": "yà",
+            "raw_pinyin": "ya",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "накрывать",
+                    "крышка"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "衤"
+                ],
+                "general": "衣"
+            },
+            "hieroglyph_id": "145",
+            "pinyin": "yī",
+            "raw_pinyin": "yi",
+            "translation": {
+                "ru": " одежда "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "行"
+            },
+            "hieroglyph_id": "144",
+            "pinyin": "xíng",
+            "raw_pinyin": "xing",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "идти",
+                    "ряд"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "血"
+            },
+            "hieroglyph_id": "143",
+            "pinyin": "xuè",
+            "raw_pinyin": "xie",
+            "translation": {
+                "ru": " кровь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "虫"
+            },
+            "hieroglyph_id": "142",
+            "pinyin": "chóng",
+            "raw_pinyin": "chong",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "насекомое",
+                    "ядовитая змея"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "虍"
+            },
+            "hieroglyph_id": "141",
+            "pinyin": "hū",
+            "raw_pinyin": "hu",
+            "translation": {
+                "ru": " тигр "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "艹"
+                ],
+                "general": "艸"
+            },
+            "hieroglyph_id": "140",
+            "pinyin": "cǎo",
+            "raw_pinyin": "cao",
+            "translation": {
+                "ru": " трава "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "色"
+            },
+            "hieroglyph_id": "139",
+            "pinyin": "sè",
+            "raw_pinyin": "se",
+            "translation": {
+                "ru": " цвет "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "艮"
+            },
+            "hieroglyph_id": "138",
+            "pinyin": "gēn",
+            "raw_pinyin": "gen",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "твердый",
+                    "крепкий"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "舟"
+            },
+            "hieroglyph_id": "137",
+            "pinyin": "zhōu",
+            "raw_pinyin": "zhou",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "лодка",
+                    "корабль"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "舛"
+            },
+            "hieroglyph_id": "136",
+            "pinyin": "chuǎn",
+            "raw_pinyin": "chuan",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "ошибка",
+                    "неудача"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "舌"
+            },
+            "hieroglyph_id": "135",
+            "pinyin": "shé",
+            "raw_pinyin": "she",
+            "translation": {
+                "ru": " язык "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "臼"
+            },
+            "hieroglyph_id": "134",
+            "pinyin": "jiù",
+            "raw_pinyin": "jiu",
+            "translation": {
+                "ru": " ступа "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "至"
+            },
+            "hieroglyph_id": "133",
+            "pinyin": "zhì",
+            "raw_pinyin": "zhi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "достигать",
+                    "прибывать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "自"
+            },
+            "hieroglyph_id": "132",
+            "pinyin": "zì",
+            "raw_pinyin": "zi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "сам",
+                    "нос"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "臣"
+            },
+            "hieroglyph_id": "131",
+            "pinyin": "chén",
+            "raw_pinyin": "chen",
+            "translation": {
+                "ru": " подданный "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "肉"
+            },
+            "hieroglyph_id": "130",
+            "pinyin": "ròu",
+            "raw_pinyin": "rou",
+            "translation": {
+                "ru": " мясо "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⺻",
+                    "肀"
+                ],
+                "general": "聿"
+            },
+            "hieroglyph_id": "129",
+            "pinyin": "yù",
+            "raw_pinyin": "yu",
+            "translation": {
+                "ru": " кисть для письма "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "耳"
+            },
+            "hieroglyph_id": "128",
+            "pinyin": "ěr",
+            "raw_pinyin": "er",
+            "translation": {
+                "ru": " ухо "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "耒"
+            },
+            "hieroglyph_id": "127",
+            "pinyin": "lěi",
+            "raw_pinyin": "lei",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "плуг",
+                    "соха"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "而"
+            },
+            "hieroglyph_id": "126",
+            "pinyin": "ér",
+            "raw_pinyin": "er",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "а",
+                    "но"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "耂"
+                ],
+                "general": "老"
+            },
+            "hieroglyph_id": "125",
+            "pinyin": "lǎo",
+            "raw_pinyin": "lao",
+            "translation": {
+                "ru": " старый "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "羽"
+            },
+            "hieroglyph_id": "124",
+            "pinyin": "yǔ",
+            "raw_pinyin": "yu",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "перья",
+                    "крылья"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⺶",
+                    "⺷"
+                ],
+                "general": "羊"
+            },
+            "hieroglyph_id": "123",
+            "pinyin": "yáng",
+            "raw_pinyin": "yang",
+            "translation": {
+                "ru": " баран "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "罒",
+                    "罓",
+                    "⺳"
+                ],
+                "general": "网"
+            },
+            "hieroglyph_id": "122",
+            "pinyin": "wǎng",
+            "raw_pinyin": "wang",
+            "translation": {
+                "ru": " сеть "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "缶"
+            },
+            "hieroglyph_id": "121",
+            "pinyin": "fǒu",
+            "raw_pinyin": "fou",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "глиняная посуда",
+                    "керамика"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "糹",
+                    "糸"
+                ],
+                "general": "纟"
+            },
+            "hieroglyph_id": "120",
+            "pinyin": "mì",
+            "raw_pinyin": "si",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "нить",
+                    "шелк"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "米"
+            },
+            "hieroglyph_id": "119",
+            "pinyin": "mǐ",
+            "raw_pinyin": "mi",
+            "translation": {
+                "ru": " рис "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⺮"
+                ],
+                "general": "竹"
+            },
+            "hieroglyph_id": "118",
+            "pinyin": "zhú",
+            "raw_pinyin": "zhu",
+            "translation": {
+                "ru": " бамбук "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "立"
+            },
+            "hieroglyph_id": "117",
+            "pinyin": "lì",
+            "raw_pinyin": "li",
+            "translation": {
+                "ru": " стоять "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "穴"
+            },
+            "hieroglyph_id": "116",
+            "pinyin": "xué",
+            "raw_pinyin": "xue",
+            "translation": {
+                "ru": " пещера "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "禾"
+            },
+            "hieroglyph_id": "115",
+            "pinyin": "hé",
+            "raw_pinyin": "he",
+            "translation": {
+                "ru": " хлеб на корню "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "禸"
+            },
+            "hieroglyph_id": "114",
+            "pinyin": "róu",
+            "raw_pinyin": "rou",
+            "translation": {
+                "ru": " след зверя "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "礻"
+                ],
+                "general": "示"
+            },
+            "hieroglyph_id": "113",
+            "pinyin": "shì",
+            "raw_pinyin": "shi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "алтарь",
+                    "демонстрировать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "石"
+            },
+            "hieroglyph_id": "112",
+            "pinyin": "shí",
+            "raw_pinyin": "shi",
+            "translation": {
+                "ru": " камень "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "矢"
+            },
+            "hieroglyph_id": "111",
+            "pinyin": "shǐ",
+            "raw_pinyin": "shi",
+            "translation": {
+                "ru": " стрела "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "矛"
+            },
+            "hieroglyph_id": "110",
+            "pinyin": "máo",
+            "raw_pinyin": "mao",
+            "translation": {
+                "ru": " копье "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "目"
+            },
+            "hieroglyph_id": "109",
+            "pinyin": "mù",
+            "raw_pinyin": "mu",
+            "translation": {
+                "ru": " глаз "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "皿"
+            },
+            "hieroglyph_id": "108",
+            "pinyin": "mǐn",
+            "raw_pinyin": "min",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "блюдо",
+                    "посуда"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "皮"
+            },
+            "hieroglyph_id": "107",
+            "pinyin": "pí",
+            "raw_pinyin": "pi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "кожа",
+                    "шкура"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "白"
+            },
+            "hieroglyph_id": "106",
+            "pinyin": "bái",
+            "raw_pinyin": "bai",
+            "translation": {
+                "ru": " белый "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "癶"
+            },
+            "hieroglyph_id": "105",
+            "pinyin": "bō",
+            "raw_pinyin": "bo",
+            "translation": {
+                "ru": " ноги врозь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "疒"
+            },
+            "hieroglyph_id": "104",
+            "pinyin": "chuáng",
+            "raw_pinyin": "chuang",
+            "translation": {
+                "ru": " болезнь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⺪"
+                ],
+                "general": "疋"
+            },
+            "hieroglyph_id": "103",
+            "pinyin": "pǐ",
+            "raw_pinyin": "pi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "нога",
+                    "колено"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "田"
+            },
+            "hieroglyph_id": "102",
+            "pinyin": "tián",
+            "raw_pinyin": "tian",
+            "translation": {
+                "ru": " поле "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "甩"
+                ],
+                "general": "用"
+            },
+            "hieroglyph_id": "101",
+            "pinyin": "yòng",
+            "raw_pinyin": "yong",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "применять",
+                    "использовать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "生"
+            },
+            "hieroglyph_id": "100",
+            "pinyin": "shēng",
+            "raw_pinyin": "sheng",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "рождаться",
+                    "сырой"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "甘"
+            },
+            "hieroglyph_id": "99",
+            "pinyin": "gān",
+            "raw_pinyin": "gan",
+            "translation": {
+                "ru": " сладкий "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "瓦"
+            },
+            "hieroglyph_id": "98",
+            "pinyin": "wǎ",
+            "raw_pinyin": "wa",
+            "translation": {
+                "ru": " черепица "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "瓜"
+            },
+            "hieroglyph_id": "97",
+            "pinyin": "guā",
+            "raw_pinyin": "gua",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "дыня",
+                    "тыква"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "玉"
+            },
+            "hieroglyph_id": "96",
+            "pinyin": "yù",
+            "raw_pinyin": "yu",
+            "translation": {
+                "ru": " яшма "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "玄"
+            },
+            "hieroglyph_id": "95",
+            "pinyin": "xuán",
+            "raw_pinyin": "xuan",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "темный",
+                    "тайный"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "犭"
+                ],
+                "general": "犬"
+            },
+            "hieroglyph_id": "94",
+            "pinyin": "quǎn",
+            "raw_pinyin": "quan",
+            "translation": {
+                "ru": " собака "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "牜",
+                    "⺧"
+                ],
+                "general": "牛"
+            },
+            "hieroglyph_id": "93",
+            "pinyin": "niú",
+            "raw_pinyin": "niu",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "корова",
+                    "бык"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "牙"
+            },
+            "hieroglyph_id": "92",
+            "pinyin": "yá",
+            "raw_pinyin": "ya",
+            "translation": {
+                "ru": " зуб "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "片"
+            },
+            "hieroglyph_id": "91",
+            "pinyin": "piàn",
+            "raw_pinyin": "pian",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "карточка",
+                    "щепка"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "丬"
+                ],
+                "general": "爿"
+            },
+            "hieroglyph_id": "90",
+            "pinyin": "qiáng",
+            "raw_pinyin": "qiang",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "доска",
+                    "кровать"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "爻"
+            },
+            "hieroglyph_id": "89",
+            "pinyin": "yáo",
+            "raw_pinyin": "yao",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "воздействие",
+                    "влияние"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "父"
+            },
+            "hieroglyph_id": "88",
+            "pinyin": "fù",
+            "raw_pinyin": "fu",
+            "translation": {
+                "ru": " отец "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "爫"
+                ],
+                "general": "爪"
+            },
+            "hieroglyph_id": "87",
+            "pinyin": "zhǎo",
+            "raw_pinyin": "zhua",
+            "translation": {
+                "ru": " когти "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "灬"
+                ],
+                "general": "火"
+            },
+            "hieroglyph_id": "86",
+            "pinyin": "huǒ",
+            "raw_pinyin": "huo",
+            "translation": {
+                "ru": " огонь "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "氵",
+                    "氺"
+                ],
+                "general": "水"
+            },
+            "hieroglyph_id": "85",
+            "pinyin": "shuǐ",
+            "raw_pinyin": "shui",
+            "translation": {
+                "ru": " вода "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "气"
+            },
+            "hieroglyph_id": "84",
+            "pinyin": "qì",
+            "raw_pinyin": "qi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "воздух",
+                    "газ"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "氏"
+            },
+            "hieroglyph_id": "83",
+            "pinyin": "shì",
+            "raw_pinyin": "shi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "род",
+                    "клан"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "毛"
+            },
+            "hieroglyph_id": "82",
+            "pinyin": "máo",
+            "raw_pinyin": "mao",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "шерсть",
+                    "волосы"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "比"
+            },
+            "hieroglyph_id": "81",
+            "pinyin": "bǐ",
+            "raw_pinyin": "bi",
+            "translation": {
+                "ru": " сравнивать "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "毋"
+            },
+            "hieroglyph_id": "80",
+            "pinyin": "wú",
+            "raw_pinyin": "wu",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "нет",
+                    "нельзя"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "殳"
+            },
+            "hieroglyph_id": "79",
+            "pinyin": "shū",
+            "raw_pinyin": "shu",
+            "translation": {
+                "ru": " бамбуковая пика "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "歺"
+                ],
+                "general": "歹"
+            },
+            "hieroglyph_id": "78",
+            "pinyin": "dǎi",
+            "raw_pinyin": "dai",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "злой",
+                    "плохой"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "止"
+            },
+            "hieroglyph_id": "77",
+            "pinyin": "zhǐ",
+            "raw_pinyin": "zhi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "стопа",
+                    "останавливаться"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "欠"
+            },
+            "hieroglyph_id": "76",
+            "pinyin": "qiàn",
+            "raw_pinyin": "qian",
+            "translation": {
+                "ru": " недоставать "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "木"
+            },
+            "hieroglyph_id": "75",
+            "pinyin": "mù",
+            "raw_pinyin": "mu",
+            "translation": {
+                "ru": " дерево "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "月"
+            },
+            "hieroglyph_id": "74",
+            "pinyin": "yuè",
+            "raw_pinyin": "yue",
+            "translation": {
+                "ru": " луна "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "曰"
+            },
+            "hieroglyph_id": "73",
+            "pinyin": "yuē",
+            "raw_pinyin": "yue",
+            "translation": {
+                "ru": " говорить "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "日"
+            },
+            "hieroglyph_id": "72",
+            "pinyin": "rì",
+            "raw_pinyin": "ri",
+            "translation": {
+                "ru": " солнце "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "无"
+            },
+            "hieroglyph_id": "71",
+            "pinyin": "wú",
+            "raw_pinyin": "wu",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "не",
+                    "без"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "方"
+            },
+            "hieroglyph_id": "70",
+            "pinyin": "fāng",
+            "raw_pinyin": "fang",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "квадрат",
+                    "сторона"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "斤"
+            },
+            "hieroglyph_id": "69",
+            "pinyin": "jīn",
+            "raw_pinyin": "jin",
+            "translation": {
+                "ru": " топор "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "斗"
+            },
+            "hieroglyph_id": "68",
+            "pinyin": "dǒu",
+            "raw_pinyin": "dou",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "ковш",
+                    "хлебная мерка"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "文"
+            },
+            "hieroglyph_id": "67",
+            "pinyin": "wén",
+            "raw_pinyin": "wen",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "текст",
+                    "письмена"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "攵"
+                ],
+                "general": "攴"
+            },
+            "hieroglyph_id": "66",
+            "pinyin": "pū",
+            "raw_pinyin": "pu",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "бить",
+                    "ударять"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "支"
+            },
+            "hieroglyph_id": "65",
+            "pinyin": "zhī",
+            "raw_pinyin": "zhi",
+            "translation": {
+                "ru": " ветка "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "扌",
+                    "龵"
+                ],
+                "general": "手"
+            },
+            "hieroglyph_id": "64",
+            "pinyin": "shǒu",
+            "raw_pinyin": "shou",
+            "translation": {
+                "ru": " рука "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "戸",
+                    "戶"
+                ],
+                "general": "户"
+            },
+            "hieroglyph_id": "63",
+            "pinyin": "hù",
+            "raw_pinyin": "hu",
+            "translation": {
+                "ru": " двор "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "戈"
+            },
+            "hieroglyph_id": "62",
+            "pinyin": "gē",
+            "raw_pinyin": "ge",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "копье",
+                    "клевец"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "忄",
+                    "⺗"
+                ],
+                "general": "心"
+            },
+            "hieroglyph_id": "61",
+            "pinyin": "xīn",
+            "raw_pinyin": "xin",
+            "translation": {
+                "ru": " сердце "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "彳"
+            },
+            "hieroglyph_id": "60",
+            "pinyin": "chì",
+            "raw_pinyin": "chi",
+            "translation": {
+                "ru": " шаг (левой ногой) "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "彡"
+            },
+            "hieroglyph_id": "59",
+            "pinyin": "shān",
+            "raw_pinyin": "shan",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "перья",
+                    "длинная шерсть"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "彑"
+                ],
+                "general": "彐"
+            },
+            "hieroglyph_id": "58",
+            "pinyin": "jì",
+            "raw_pinyin": "ji",
+            "translation": {
+                "ru": " голова свиньи "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "弓"
+            },
+            "hieroglyph_id": "57",
+            "pinyin": "gōng",
+            "raw_pinyin": "gong",
+            "translation": {
+                "ru": " лук "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "弋"
+            },
+            "hieroglyph_id": "56",
+            "pinyin": "yì",
+            "raw_pinyin": "yi",
+            "translation": {
+                "ru": " стрелять из лука "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "廾"
+            },
+            "hieroglyph_id": "55",
+            "pinyin": "gǒng",
+            "raw_pinyin": "gong",
+            "translation": {
+                "ru": " соединить руки "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "廴"
+            },
+            "hieroglyph_id": "54",
+            "pinyin": "yǐn",
+            "raw_pinyin": "yin",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "двигаться вперед",
+                    "тащить"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "广"
+            },
+            "hieroglyph_id": "53",
+            "pinyin": "guǎng",
+            "raw_pinyin": "yan",
+            "translation": {
+                "ru": " навес "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "幺"
+            },
+            "hieroglyph_id": "52",
+            "pinyin": "yāo",
+            "raw_pinyin": "yao",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "незрелый",
+                    "младший"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "干"
+            },
+            "hieroglyph_id": "51",
+            "pinyin": "gān",
+            "raw_pinyin": "gan",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "щит",
+                    "вмешиваться"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "巾"
+            },
+            "hieroglyph_id": "50",
+            "pinyin": "jīn",
+            "raw_pinyin": "jin",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "полотенце",
+                    "салфетка"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "已",
+                    "巳"
+                ],
+                "general": "己"
+            },
+            "hieroglyph_id": "49",
+            "pinyin": "jǐ",
+            "raw_pinyin": "ji",
+            "translation": {
+                "ru": " сам "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "工"
+            },
+            "hieroglyph_id": "48",
+            "pinyin": "gōng",
+            "raw_pinyin": "gong",
+            "translation": {
+                "ru": " работа "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "川",
+                    "巜"
+                ],
+                "general": "巛"
+            },
+            "hieroglyph_id": "47",
+            "pinyin": "chuān",
+            "raw_pinyin": "chuan",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "поток",
+                    "река"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "山"
+            },
+            "hieroglyph_id": "46",
+            "pinyin": "shān",
+            "raw_pinyin": "shan",
+            "translation": {
+                "ru": " гора "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "屮"
+            },
+            "hieroglyph_id": "45",
+            "pinyin": "chè",
+            "raw_pinyin": "che",
+            "translation": {
+                "ru": " росток "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "尸"
+            },
+            "hieroglyph_id": "44",
+            "pinyin": "shī",
+            "raw_pinyin": "shi",
+            "translation": {
+                "ru": " труп "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "尣"
+                ],
+                "general": "尢"
+            },
+            "hieroglyph_id": "43",
+            "pinyin": "wāng",
+            "raw_pinyin": "wang",
+            "translation": {
+                "ru": " хромой "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⺌",
+                    "⺍"
+                ],
+                "general": "小"
+            },
+            "hieroglyph_id": "42",
+            "pinyin": "xiǎo",
+            "raw_pinyin": "xiao",
+            "translation": {
+                "ru": " маленький "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "寸"
+            },
+            "hieroglyph_id": "41",
+            "pinyin": "cùn",
+            "raw_pinyin": "cun",
+            "translation": {
+                "ru": " вершок "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "宀"
+            },
+            "hieroglyph_id": "40",
+            "pinyin": "mián",
+            "raw_pinyin": "mian",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "крыша с точкой",
+                    "крыша"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "子"
+            },
+            "hieroglyph_id": "39",
+            "pinyin": "zǐ",
+            "raw_pinyin": "zi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "ребёнок",
+                    "сын"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "女"
+            },
+            "hieroglyph_id": "38",
+            "pinyin": "nǚ",
+            "raw_pinyin": "nu",
+            "translation": {
+                "ru": " женщина "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "大"
+            },
+            "hieroglyph_id": "37",
+            "pinyin": "dà",
+            "raw_pinyin": "da",
+            "translation": {
+                "ru": " большой "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "夕"
+            },
+            "hieroglyph_id": "36",
+            "pinyin": "xī",
+            "raw_pinyin": "xi",
+            "translation": {
+                "ru": " вечер "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "夊"
+            },
+            "hieroglyph_id": "35",
+            "pinyin": "suī",
+            "raw_pinyin": "sui",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "медленно идти",
+                    "волочить ноги"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "夂"
+            },
+            "hieroglyph_id": "34",
+            "pinyin": "zhǐ",
+            "raw_pinyin": "zhi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "шагать вперед",
+                    "продвигаться"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "士"
+            },
+            "hieroglyph_id": "33",
+            "pinyin": "shì",
+            "raw_pinyin": "shi",
+            "translation": {
+                "ru": " воин "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "土"
+            },
+            "hieroglyph_id": "32",
+            "pinyin": "tǔ",
+            "raw_pinyin": "tu",
+            "translation": {
+                "ru": " земля "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "囗"
+            },
+            "hieroglyph_id": "31",
+            "pinyin": "wéi",
+            "raw_pinyin": "wei",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "окружать",
+                    "ограда"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "口"
+            },
+            "hieroglyph_id": "30",
+            "pinyin": "kǒu",
+            "raw_pinyin": "kou",
+            "translation": {
+                "ru": " рот "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "又"
+            },
+            "hieroglyph_id": "29",
+            "pinyin": "yòu",
+            "raw_pinyin": "you",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "правая рука",
+                    "опять"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "厶"
+            },
+            "hieroglyph_id": "28",
+            "pinyin": "sī",
+            "raw_pinyin": "si",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "частный",
+                    "личный"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "厂"
+            },
+            "hieroglyph_id": "27",
+            "pinyin": "chǎng",
+            "raw_pinyin": "han",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "обрыв",
+                    "круча"
+                ],
+                "srb": []
+            },
+            "type": "radical / фабрика"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "⺋"
+                ],
+                "general": "卩"
+            },
+            "hieroglyph_id": "26",
+            "pinyin": "jié",
+            "raw_pinyin": "jie",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "печать",
+                    "власть"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "卜"
+            },
+            "hieroglyph_id": "25",
+            "pinyin": "bǔ",
+            "raw_pinyin": "bu",
+            "translation": {
+                "ru": " гадать "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "十"
+            },
+            "hieroglyph_id": "24",
+            "pinyin": "shí",
+            "raw_pinyin": "shi",
+            "translation": {
+                "ru": " десять "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "匸"
+            },
+            "hieroglyph_id": "23",
+            "pinyin": "xì",
+            "raw_pinyin": "xi",
+            "translation": {
+                "ru": " прятать "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "匚"
+            },
+            "hieroglyph_id": "22",
+            "pinyin": "fāng",
+            "raw_pinyin": "fang",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "ящик",
+                    "короб"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "匕"
+            },
+            "hieroglyph_id": "21",
+            "pinyin": "bǐ",
+            "raw_pinyin": "bi",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "черпак",
+                    "кинжал"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "勹"
+            },
+            "hieroglyph_id": "20",
+            "pinyin": "bāo",
+            "raw_pinyin": "bao",
+            "translation": {
+                "ru": " обёртывать "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "力"
+            },
+            "hieroglyph_id": "19",
+            "pinyin": "lì",
+            "raw_pinyin": "li",
+            "translation": {
+                "ru": " сила "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "刂"
+                ],
+                "general": "刀"
+            },
+            "hieroglyph_id": "18",
+            "pinyin": "dāo",
+            "raw_pinyin": "dao",
+            "translation": {
+                "ru": " нож "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "凵"
+            },
+            "hieroglyph_id": "17",
+            "pinyin": "kǎn",
+            "raw_pinyin": "qu",
+            "translation": {
+                "ru": " яма "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "几"
+            },
+            "hieroglyph_id": "16",
+            "pinyin": "jī",
+            "raw_pinyin": "ji",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "столик",
+                    "несколько"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "冫"
+            },
+            "hieroglyph_id": "15",
+            "pinyin": "bīng",
+            "raw_pinyin": "bing",
+            "translation": {
+                "ru": " лёд "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "冖"
+            },
+            "hieroglyph_id": "14",
+            "pinyin": "mì",
+            "raw_pinyin": "mi",
+            "translation": {
+                "ru": " крышка "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "冂"
+            },
+            "hieroglyph_id": "13",
+            "pinyin": "jiōng",
+            "raw_pinyin": "jiong",
+            "translation": {
+                "ru": " границы "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "八"
+            },
+            "hieroglyph_id": "12",
+            "pinyin": "bā",
+            "raw_pinyin": "ba",
+            "translation": {
+                "de": [],
+                "en": [],
+                "esp": [],
+                "ru": [
+                    "восемь",
+                    "делить"
+                ],
+                "srb": []
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "入"
+            },
+            "hieroglyph_id": "11",
+            "pinyin": "rù",
+            "raw_pinyin": "ru",
+            "translation": {
+                "ru": " входить "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "儿"
+            },
+            "hieroglyph_id": "10",
+            "pinyin": "ér",
+            "raw_pinyin": "er",
+            "translation": {
+                "ru": " идущий человек "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "亻"
+                ],
+                "general": "人"
+            },
+            "hieroglyph_id": "9",
+            "pinyin": "rén",
+            "raw_pinyin": "ren",
+            "translation": {
+                "ru": " человек "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "亠"
+            },
+            "hieroglyph_id": "8",
+            "pinyin": "tóu",
+            "raw_pinyin": "tou",
+            "translation": {
+                "ru": " горизонтальная с точкой "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "二"
+            },
+            "hieroglyph_id": "7",
+            "pinyin": "èr",
+            "raw_pinyin": "er",
+            "translation": {
+                "ru": " два "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "亅"
+            },
+            "hieroglyph_id": "6",
+            "pinyin": "jué",
+            "raw_pinyin": "jue",
+            "translation": {
+                "ru": " вертикальная с крюком "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "additional": [
+                    "乚"
+                ],
+                "general": "乙"
+            },
+            "hieroglyph_id": "5",
+            "pinyin": "yǐ",
+            "raw_pinyin": "yi",
+            "translation": {
+                "ru": " второй (цикличный знак) "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "丿"
+            },
+            "hieroglyph_id": "4",
+            "pinyin": "piě",
+            "raw_pinyin": "pie",
+            "translation": {
+                "ru": " откидная влево "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "丶"
+            },
+            "hieroglyph_id": "3",
+            "pinyin": "zhǔ",
+            "raw_pinyin": "zhu",
+            "translation": {
+                "ru": " точка "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "丨"
+            },
+            "hieroglyph_id": "2",
+            "pinyin": "gǔn",
+            "raw_pinyin": "gun",
+            "translation": {
+                "ru": " вертикальная "
+            },
+            "type": "radical"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "一"
+            },
+            "hieroglyph_id": "1",
+            "pinyin": "yī",
+            "raw_pinyin": "yi",
+            "translation": {
+                "ru": " единица "
+            },
+            "type": "radical"
+        }
+    }
+]

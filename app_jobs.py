@@ -34,7 +34,7 @@ def sync_messages_json():
     api_hash = 'e9fb0c49341d086e93f64db02abdf3c3'
     chat_id = -1001680578245
     with TelegramClient('name', api_id, api_hash) as client:
-        messages = client.get_messages(chat_id, limit=5000)
+        messages = client.get_messages(chat_id, limit=2000)
         x = [(mes.message, mes.date.isoformat()) for mes in messages]
         print("Logging: ", "Unfiltered messages", len(x))
         filtered_messages = [(m, date) for m, date in x if check_has_id(m)]
@@ -49,6 +49,30 @@ def sync_messages_json():
                 res = json.dumps(result_json, indent=4, sort_keys=True, ensure_ascii=False)
                 js = file.write(res)
                 print("Logging: ", file.name, " saved." " Total count: ", len(filtered_messages))
+        except Exception as e:
+            print("Logging: Can not produce js file: ", e)
+
+
+def sync_graphemes_json():
+    api_id = 19763055
+    api_hash = 'e9fb0c49341d086e93f64db02abdf3c3'
+    chat_id = -1001758833348
+    with TelegramClient('name', api_id, api_hash) as client:
+        messages = client.get_messages(chat_id, limit=5000)
+        x = [(mes.message, mes.date.isoformat()) for mes in messages]
+        print("Logging: ", "Unfiltered graphemes", len(x))
+        filtered_g = [(m, date) for m, date in x if check_has_id(m)]
+        print("Logging: ", "Filtered graphemes", len(filtered_g))
+        try:
+            with open('graphemes.json', 'w', encoding='utf-8') as file:
+                result_json = []
+                for g in filtered_g:
+                    parsed_g = parse_g(g)
+                    print(parsed_g)
+                    result_json.append(parsed_g)
+                res = json.dumps(result_json, indent=4, sort_keys=True, ensure_ascii=False)
+                js = file.write(res)
+                print("Logging: ", file.name, " saved." " Total count: ", len(filtered_g))
         except Exception as e:
             print("Logging: Can not produce js file: ", e)
 
@@ -80,6 +104,7 @@ def sync_messages_to_mds_from_json():
 
 
 if __name__ == '__main__':
+    sync_graphemes_json()
     sync_messages_json()
     print ("Synced messages!")
     print(unidecode("谢谢你"))
