@@ -4,11 +4,13 @@
             "chinese": {
                 "general": "百"
             },
-            "hieroglyph_id": "229",
+            "id": "229",
             "pinyin": "băi",
             "raw_pinyin": "bai",
             "translation": {
-                "ru": " сто"
+                "ru": [
+                    "сто"
+                ]
             },
             "type": "grapheme"
         }
@@ -18,11 +20,13 @@
             "chinese": {
                 "general": "王"
             },
-            "hieroglyph_id": "228",
+            "id": "228",
             "pinyin": "wáng",
             "raw_pinyin": "wang",
             "translation": {
-                "ru": " король"
+                "ru": [
+                    "король"
+                ]
             },
             "type": "grapheme"
         }
@@ -32,11 +36,13 @@
             "chinese": {
                 "general": "束"
             },
-            "hieroglyph_id": "227",
+            "id": "227",
             "pinyin": "shù",
             "raw_pinyin": "shu",
             "translation": {
-                "ru": ""
+                "ru": [
+                    ""
+                ]
             },
             "type": "grapheme"
         }
@@ -46,11 +52,13 @@
             "chinese": {
                 "general": "天"
             },
-            "hieroglyph_id": "226",
+            "id": "226",
             "pinyin": "tiān",
             "raw_pinyin": "tian",
             "translation": {
-                "ru": " небо"
+                "ru": [
+                    "небо"
+                ]
             },
             "type": "grapheme"
         }
@@ -60,7 +68,7 @@
             "chinese": {
                 "general": "去"
             },
-            "hieroglyph_id": "225",
+            "id": "225",
             "pinyin": "qù",
             "raw_pinyin": "qu",
             "translation": {
@@ -82,11 +90,13 @@
             "chinese": {
                 "general": "七"
             },
-            "hieroglyph_id": "224",
+            "id": "224",
             "pinyin": "qí",
             "raw_pinyin": "qi",
             "translation": {
-                "ru": " семь"
+                "ru": [
+                    "семь"
+                ]
             },
             "type": "grapheme"
         }
@@ -96,11 +106,13 @@
             "chinese": {
                 "general": "不"
             },
-            "hieroglyph_id": "223",
+            "id": "223",
             "pinyin": "bù",
             "raw_pinyin": "bu",
             "translation": {
-                "ru": " нет"
+                "ru": [
+                    "нет"
+                ]
             },
             "type": "grapheme"
         }
@@ -110,11 +122,13 @@
             "chinese": {
                 "general": "良"
             },
-            "hieroglyph_id": "222",
+            "id": "222",
             "pinyin": "liáng",
             "raw_pinyin": "liang",
             "translation": {
-                "ru": ""
+                "ru": [
+                    ""
+                ]
             },
             "type": "grapheme"
         }
@@ -124,11 +138,13 @@
             "chinese": {
                 "general": "且"
             },
-            "hieroglyph_id": "221",
+            "id": "221",
             "pinyin": "qiē",
             "raw_pinyin": "qie",
             "translation": {
-                "ru": ""
+                "ru": [
+                    ""
+                ]
             },
             "type": "grapheme"
         }
@@ -138,11 +154,13 @@
             "chinese": {
                 "general": "也"
             },
-            "hieroglyph_id": "220",
+            "id": "220",
             "pinyin": "yě",
             "raw_pinyin": "ye",
             "translation": {
-                "ru": " тоже"
+                "ru": [
+                    "тоже"
+                ]
             },
             "type": "grapheme"
         }
@@ -152,11 +170,13 @@
             "chinese": {
                 "general": "下"
             },
-            "hieroglyph_id": "219",
+            "id": "219",
             "pinyin": "xià",
             "raw_pinyin": "xia",
             "translation": {
-                "ru": " вниз"
+                "ru": [
+                    "вниз"
+                ]
             },
             "type": "grapheme"
         }
@@ -166,11 +186,13 @@
             "chinese": {
                 "general": "上"
             },
-            "hieroglyph_id": "218",
+            "id": "218",
             "pinyin": "shàng",
             "raw_pinyin": "shang",
             "translation": {
-                "ru": " вверх"
+                "ru": [
+                    "вверх"
+                ]
             },
             "type": "grapheme"
         }
@@ -180,11 +202,13 @@
             "chinese": {
                 "general": "由"
             },
-            "hieroglyph_id": "217",
+            "id": "217",
             "pinyin": "yóu",
             "raw_pinyin": "you",
             "translation": {
-                "ru": ""
+                "ru": [
+                    ""
+                ]
             },
             "type": "grapheme"
         }
@@ -194,11 +218,13 @@
             "chinese": {
                 "general": "中"
             },
-            "hieroglyph_id": "216",
+            "id": "216",
             "pinyin": "zhōng",
             "raw_pinyin": "zhong",
             "translation": {
-                "ru": " середина"
+                "ru": [
+                    "середина"
+                ]
             },
             "type": "grapheme"
         }
@@ -208,11 +234,13 @@
             "chinese": {
                 "general": "凡"
             },
-            "hieroglyph_id": "215",
+            "id": "215",
             "pinyin": "fán",
             "raw_pinyin": "fan",
             "translation": {
-                "ru": ""
+                "ru": [
+                    ""
+                ]
             },
             "type": "grapheme"
         }
@@ -222,11 +250,13 @@
             "chinese": {
                 "general": "龠"
             },
-            "hieroglyph_id": "214",
+            "id": "214",
             "pinyin": "yuè",
             "raw_pinyin": "yue",
             "translation": {
-                "ru": " флейта "
+                "ru": [
+                    "флейта"
+                ]
             },
             "type": "radical"
         }
@@ -239,11 +269,13 @@
                 ],
                 "general": "龟"
             },
-            "hieroglyph_id": "213",
+            "id": "213",
             "pinyin": "guī",
             "raw_pinyin": "gui",
             "translation": {
-                "ru": " черепаха "
+                "ru": [
+                    "черепаха"
+                ]
             },
             "type": "radical"
         }
@@ -256,11 +288,13 @@
                 ],
                 "general": "龙"
             },
-            "hieroglyph_id": "212",
+            "id": "212",
             "pinyin": "lóng",
             "raw_pinyin": "long",
             "translation": {
-                "ru": " дракон "
+                "ru": [
+                    "дракон"
+                ]
             },
             "type": "radical"
         }
@@ -273,11 +307,13 @@
                 ],
                 "general": "齿"
             },
-            "hieroglyph_id": "211",
+            "id": "211",
             "pinyin": "chǐ",
             "raw_pinyin": "chi",
             "translation": {
-                "ru": " зубы "
+                "ru": [
+                    "зубы"
+                ]
             },
             "type": "radical"
         }
@@ -290,7 +326,7 @@
                 ],
                 "general": "齐"
             },
-            "hieroglyph_id": "210",
+            "id": "210",
             "pinyin": "qí",
             "raw_pinyin": "qi",
             "translation": {
@@ -311,11 +347,13 @@
             "chinese": {
                 "general": "鼻"
             },
-            "hieroglyph_id": "209",
+            "id": "209",
             "pinyin": "bí",
             "raw_pinyin": "bi",
             "translation": {
-                "ru": " нос "
+                "ru": [
+                    "нос"
+                ]
             },
             "type": "radical"
         }
@@ -325,11 +363,13 @@
             "chinese": {
                 "general": "鼠"
             },
-            "hieroglyph_id": "208",
+            "id": "208",
             "pinyin": "shǔ",
             "raw_pinyin": "shu",
             "translation": {
-                "ru": " мышь "
+                "ru": [
+                    "мышь"
+                ]
             },
             "type": "radical"
         }
@@ -339,11 +379,13 @@
             "chinese": {
                 "general": "鼓"
             },
-            "hieroglyph_id": "207",
+            "id": "207",
             "pinyin": "gǔ",
             "raw_pinyin": "gu",
             "translation": {
-                "ru": " барабан "
+                "ru": [
+                    "барабан"
+                ]
             },
             "type": "radical"
         }
@@ -353,11 +395,13 @@
             "chinese": {
                 "general": "鼎"
             },
-            "hieroglyph_id": "206",
+            "id": "206",
             "pinyin": "dǐng",
             "raw_pinyin": "ding",
             "translation": {
-                "ru": " бронзовый треножник "
+                "ru": [
+                    "бронзовый треножник"
+                ]
             },
             "type": "radical"
         }
@@ -370,7 +414,7 @@
                 ],
                 "general": "黾"
             },
-            "hieroglyph_id": "205",
+            "id": "205",
             "pinyin": "mǐn",
             "raw_pinyin": "min",
             "translation": {
@@ -391,11 +435,13 @@
             "chinese": {
                 "general": "黹"
             },
-            "hieroglyph_id": "204",
+            "id": "204",
             "pinyin": "zhǐ",
             "raw_pinyin": "zhi",
             "translation": {
-                "ru": " вышивка "
+                "ru": [
+                    "вышивка"
+                ]
             },
             "type": "radical"
         }
@@ -405,11 +451,13 @@
             "chinese": {
                 "general": "黑"
             },
-            "hieroglyph_id": "203",
+            "id": "203",
             "pinyin": "hēi",
             "raw_pinyin": "hei",
             "translation": {
-                "ru": " черный "
+                "ru": [
+                    "черный"
+                ]
             },
             "type": "radical"
         }
@@ -419,11 +467,13 @@
             "chinese": {
                 "general": "黍"
             },
-            "hieroglyph_id": "202",
+            "id": "202",
             "pinyin": "shǔ",
             "raw_pinyin": "shu",
             "translation": {
-                "ru": " просо "
+                "ru": [
+                    "просо"
+                ]
             },
             "type": "radical"
         }
@@ -433,11 +483,13 @@
             "chinese": {
                 "general": "黃"
             },
-            "hieroglyph_id": "201",
+            "id": "201",
             "pinyin": "huáng",
             "raw_pinyin": "huang",
             "translation": {
-                "ru": " желтый "
+                "ru": [
+                    "желтый"
+                ]
             },
             "type": "radical"
         }
@@ -447,11 +499,13 @@
             "chinese": {
                 "general": "麻"
             },
-            "hieroglyph_id": "200",
+            "id": "200",
             "pinyin": "má",
             "raw_pinyin": "ma",
             "translation": {
-                "ru": " конопля "
+                "ru": [
+                    "конопля"
+                ]
             },
             "type": "radical"
         }
@@ -464,11 +518,13 @@
                 ],
                 "general": "麦"
             },
-            "hieroglyph_id": "199",
+            "id": "199",
             "pinyin": "mài",
             "raw_pinyin": "mai",
             "translation": {
-                "ru": " пшеница "
+                "ru": [
+                    "пшеница"
+                ]
             },
             "type": "radical"
         }
@@ -478,11 +534,13 @@
             "chinese": {
                 "general": "鹿"
             },
-            "hieroglyph_id": "198",
+            "id": "198",
             "pinyin": "lù",
             "raw_pinyin": "lu",
             "translation": {
-                "ru": " олень "
+                "ru": [
+                    "олень"
+                ]
             },
             "type": "radical"
         }
@@ -495,7 +553,7 @@
                 ],
                 "general": "卤"
             },
-            "hieroglyph_id": "197",
+            "id": "197",
             "pinyin": "lǔ",
             "raw_pinyin": "lu",
             "translation": {
@@ -519,11 +577,13 @@
                 ],
                 "general": "鸟"
             },
-            "hieroglyph_id": "196",
+            "id": "196",
             "pinyin": "niǎo",
             "raw_pinyin": "niao",
             "translation": {
-                "ru": " птица "
+                "ru": [
+                    "птица"
+                ]
             },
             "type": "radical"
         }
@@ -536,11 +596,13 @@
                 ],
                 "general": "鱼"
             },
-            "hieroglyph_id": "195",
+            "id": "195",
             "pinyin": "yú",
             "raw_pinyin": "yu",
             "translation": {
-                "ru": " рыба "
+                "ru": [
+                    "рыба"
+                ]
             },
             "type": "radical"
         }
@@ -550,11 +612,13 @@
             "chinese": {
                 "general": "鬼"
             },
-            "hieroglyph_id": "194",
+            "id": "194",
             "pinyin": "guǐ",
             "raw_pinyin": "gui",
             "translation": {
-                "ru": " черт "
+                "ru": [
+                    "черт"
+                ]
             },
             "type": "radical"
         }
@@ -564,7 +628,7 @@
             "chinese": {
                 "general": "鬲"
             },
-            "hieroglyph_id": "193",
+            "id": "193",
             "pinyin": "lì",
             "raw_pinyin": "li",
             "translation": {
@@ -585,11 +649,13 @@
             "chinese": {
                 "general": "鬯"
             },
-            "hieroglyph_id": "192",
+            "id": "192",
             "pinyin": "chàng",
             "raw_pinyin": "chang",
             "translation": {
-                "ru": " жертвенное вино "
+                "ru": [
+                    "жертвенное вино"
+                ]
             },
             "type": "radical"
         }
@@ -602,11 +668,13 @@
                 ],
                 "general": "斗"
             },
-            "hieroglyph_id": "191",
+            "id": "191",
             "pinyin": "dòu",
             "raw_pinyin": "dou",
             "translation": {
-                "ru": " борьба "
+                "ru": [
+                    "борьба"
+                ]
             },
             "type": "radical"
         }
@@ -616,11 +684,13 @@
             "chinese": {
                 "general": "髟"
             },
-            "hieroglyph_id": "190",
+            "id": "190",
             "pinyin": "biāo",
             "raw_pinyin": "biao",
             "translation": {
-                "ru": " волосы "
+                "ru": [
+                    "волосы"
+                ]
             },
             "type": "radical"
         }
@@ -633,11 +703,13 @@
                 ],
                 "general": "高"
             },
-            "hieroglyph_id": "189",
+            "id": "189",
             "pinyin": "gāo",
             "raw_pinyin": "gao",
             "translation": {
-                "ru": " высокий "
+                "ru": [
+                    "высокий"
+                ]
             },
             "type": "radical"
         }
@@ -647,11 +719,13 @@
             "chinese": {
                 "general": "骨"
             },
-            "hieroglyph_id": "188",
+            "id": "188",
             "pinyin": "gǔ",
             "raw_pinyin": "gu",
             "translation": {
-                "ru": " кости "
+                "ru": [
+                    "кости"
+                ]
             },
             "type": "radical"
         }
@@ -664,11 +738,13 @@
                 ],
                 "general": "马"
             },
-            "hieroglyph_id": "187",
+            "id": "187",
             "pinyin": "mǎ",
             "raw_pinyin": "ma",
             "translation": {
-                "ru": " лошадь "
+                "ru": [
+                    "лошадь"
+                ]
             },
             "type": "radical"
         }
@@ -678,11 +754,13 @@
             "chinese": {
                 "general": "香"
             },
-            "hieroglyph_id": "186",
+            "id": "186",
             "pinyin": "xiāng",
             "raw_pinyin": "xiang",
             "translation": {
-                "ru": " аромат "
+                "ru": [
+                    "аромат"
+                ]
             },
             "type": "radical"
         }
@@ -692,7 +770,7 @@
             "chinese": {
                 "general": "首"
             },
-            "hieroglyph_id": "185",
+            "id": "185",
             "pinyin": "shǒu",
             "raw_pinyin": "shou",
             "translation": {
@@ -717,7 +795,7 @@
                 ],
                 "general": "饣"
             },
-            "hieroglyph_id": "184",
+            "id": "184",
             "pinyin": "shí",
             "raw_pinyin": "shi",
             "translation": {
@@ -741,11 +819,13 @@
                 ],
                 "general": "飞"
             },
-            "hieroglyph_id": "183",
+            "id": "183",
             "pinyin": "fēi",
             "raw_pinyin": "fei",
             "translation": {
-                "ru": " летать "
+                "ru": [
+                    "летать"
+                ]
             },
             "type": "radical"
         }
@@ -758,11 +838,13 @@
                 ],
                 "general": "风"
             },
-            "hieroglyph_id": "182",
+            "id": "182",
             "pinyin": "fēng",
             "raw_pinyin": "feng",
             "translation": {
-                "ru": " ветер "
+                "ru": [
+                    "ветер"
+                ]
             },
             "type": "radical"
         }
@@ -775,11 +857,13 @@
                 ],
                 "general": "页"
             },
-            "hieroglyph_id": "181",
+            "id": "181",
             "pinyin": "yè",
             "raw_pinyin": "ye",
             "translation": {
-                "ru": " страница "
+                "ru": [
+                    "страница"
+                ]
             },
             "type": "radical"
         }
@@ -789,11 +873,13 @@
             "chinese": {
                 "general": "音"
             },
-            "hieroglyph_id": "180",
+            "id": "180",
             "pinyin": "yīn",
             "raw_pinyin": "yin",
             "translation": {
-                "ru": " звук "
+                "ru": [
+                    "звук"
+                ]
             },
             "type": "radical"
         }
@@ -803,11 +889,13 @@
             "chinese": {
                 "general": "韭"
             },
-            "hieroglyph_id": "179",
+            "id": "179",
             "pinyin": "jiǔ",
             "raw_pinyin": "jiu",
             "translation": {
-                "ru": " дикий чеснок "
+                "ru": [
+                    "дикий чеснок"
+                ]
             },
             "type": "radical"
         }
@@ -820,11 +908,13 @@
                 ],
                 "general": "韦"
             },
-            "hieroglyph_id": "178",
+            "id": "178",
             "pinyin": "wéi",
             "raw_pinyin": "wei",
             "translation": {
-                "ru": " выделанная кожа "
+                "ru": [
+                    "выделанная кожа"
+                ]
             },
             "type": "radical"
         }
@@ -834,11 +924,13 @@
             "chinese": {
                 "general": "革"
             },
-            "hieroglyph_id": "177",
+            "id": "177",
             "pinyin": "gé",
             "raw_pinyin": "ge",
             "translation": {
-                "ru": " сырая кожа "
+                "ru": [
+                    "сырая кожа"
+                ]
             },
             "type": "radical"
         }
@@ -851,11 +943,13 @@
                 ],
                 "general": "面"
             },
-            "hieroglyph_id": "176",
+            "id": "176",
             "pinyin": "miàn",
             "raw_pinyin": "mian",
             "translation": {
-                "ru": " лицо "
+                "ru": [
+                    "лицо"
+                ]
             },
             "type": "radical"
         }
@@ -865,7 +959,7 @@
             "chinese": {
                 "general": "非"
             },
-            "hieroglyph_id": "175",
+            "id": "175",
             "pinyin": "fēi",
             "raw_pinyin": "fei",
             "translation": {
@@ -889,7 +983,7 @@
                 ],
                 "general": "青"
             },
-            "hieroglyph_id": "174",
+            "id": "174",
             "pinyin": "qīng",
             "raw_pinyin": "qing",
             "translation": {
@@ -910,11 +1004,13 @@
             "chinese": {
                 "general": "雨"
             },
-            "hieroglyph_id": "173",
+            "id": "173",
             "pinyin": "yǔ",
             "raw_pinyin": "yu",
             "translation": {
-                "ru": " дождь "
+                "ru": [
+                    "дождь"
+                ]
             },
             "type": "radical"
         }
@@ -924,11 +1020,13 @@
             "chinese": {
                 "general": "隹"
             },
-            "hieroglyph_id": "172",
+            "id": "172",
             "pinyin": "zhuī",
             "raw_pinyin": "zhui",
             "translation": {
-                "ru": " короткохвостая птица "
+                "ru": [
+                    "короткохвостая птица"
+                ]
             },
             "type": "radical"
         }
@@ -938,7 +1036,7 @@
             "chinese": {
                 "general": "隶"
             },
-            "hieroglyph_id": "171",
+            "id": "171",
             "pinyin": "lì",
             "raw_pinyin": "li",
             "translation": {
@@ -962,11 +1060,13 @@
                 ],
                 "general": "阝"
             },
-            "hieroglyph_id": "170",
+            "id": "170",
             "pinyin": "fù",
             "raw_pinyin": "fu",
             "translation": {
-                "ru": " холм "
+                "ru": [
+                    "холм"
+                ]
             },
             "type": "radical"
         }
@@ -979,11 +1079,13 @@
                 ],
                 "general": "门"
             },
-            "hieroglyph_id": "169",
+            "id": "169",
             "pinyin": "mén",
             "raw_pinyin": "men",
             "translation": {
-                "ru": " ворота "
+                "ru": [
+                    "ворота"
+                ]
             },
             "type": "radical"
         }
@@ -997,7 +1099,7 @@
                 ],
                 "general": "长"
             },
-            "hieroglyph_id": "168",
+            "id": "168",
             "pinyin": "cháng",
             "raw_pinyin": "chang",
             "translation": {
@@ -1022,7 +1124,7 @@
                 ],
                 "general": "钅"
             },
-            "hieroglyph_id": "167",
+            "id": "167",
             "pinyin": "jīn",
             "raw_pinyin": "jin",
             "translation": {
@@ -1043,7 +1145,7 @@
             "chinese": {
                 "general": "里"
             },
-            "hieroglyph_id": "166",
+            "id": "166",
             "pinyin": "lǐ",
             "raw_pinyin": "li",
             "translation": {
@@ -1064,7 +1166,7 @@
             "chinese": {
                 "general": "釆"
             },
-            "hieroglyph_id": "165",
+            "id": "165",
             "pinyin": "biàn",
             "raw_pinyin": "bian",
             "translation": {
@@ -1085,11 +1187,13 @@
             "chinese": {
                 "general": "酉"
             },
-            "hieroglyph_id": "164",
+            "id": "164",
             "pinyin": "yǒu",
             "raw_pinyin": "you",
             "translation": {
-                "ru": " сосуд для вина "
+                "ru": [
+                    "сосуд для вина"
+                ]
             },
             "type": "radical"
         }
@@ -1102,11 +1206,13 @@
                 ],
                 "general": "邑"
             },
-            "hieroglyph_id": "163",
+            "id": "163",
             "pinyin": "yì",
             "raw_pinyin": "yi",
             "translation": {
-                "ru": " город "
+                "ru": [
+                    "город"
+                ]
             },
             "type": "radical"
         }
@@ -1121,11 +1227,13 @@
                 ],
                 "general": "辵"
             },
-            "hieroglyph_id": "162",
+            "id": "162",
             "pinyin": "chuò",
             "raw_pinyin": "chuo",
             "translation": {
-                "ru": " идти быстро "
+                "ru": [
+                    "идти быстро"
+                ]
             },
             "type": "radical"
         }
@@ -1135,11 +1243,13 @@
             "chinese": {
                 "general": "辰"
             },
-            "hieroglyph_id": "161",
+            "id": "161",
             "pinyin": "chén",
             "raw_pinyin": "chen",
             "translation": {
-                "ru": " время (циклический знак) "
+                "ru": [
+                    "время (циклический знак)"
+                ]
             },
             "type": "radical"
         }
@@ -1149,11 +1259,13 @@
             "chinese": {
                 "general": "辛"
             },
-            "hieroglyph_id": "160",
+            "id": "160",
             "pinyin": "xīn",
             "raw_pinyin": "xin",
             "translation": {
-                "ru": " горький "
+                "ru": [
+                    "горький"
+                ]
             },
             "type": "radical"
         }
@@ -1166,7 +1278,7 @@
                 ],
                 "general": "车"
             },
-            "hieroglyph_id": "159",
+            "id": "159",
             "pinyin": "chē",
             "raw_pinyin": "che",
             "translation": {
@@ -1187,11 +1299,13 @@
             "chinese": {
                 "general": "身"
             },
-            "hieroglyph_id": "158",
+            "id": "158",
             "pinyin": "shēn",
             "raw_pinyin": "shen",
             "translation": {
-                "ru": " тело (человека) "
+                "ru": [
+                    "тело (человека)"
+                ]
             },
             "type": "radical"
         }
@@ -1204,11 +1318,13 @@
                 ],
                 "general": "足"
             },
-            "hieroglyph_id": "157",
+            "id": "157",
             "pinyin": "zú",
             "raw_pinyin": "zu",
             "translation": {
-                "ru": " нога "
+                "ru": [
+                    "нога"
+                ]
             },
             "type": "radical"
         }
@@ -1221,7 +1337,7 @@
                 ],
                 "general": "走"
             },
-            "hieroglyph_id": "156",
+            "id": "156",
             "pinyin": "zǒu",
             "raw_pinyin": "zou",
             "translation": {
@@ -1242,11 +1358,13 @@
             "chinese": {
                 "general": "赤"
             },
-            "hieroglyph_id": "155",
+            "id": "155",
             "pinyin": "chì",
             "raw_pinyin": "chi",
             "translation": {
-                "ru": " красный "
+                "ru": [
+                    "красный"
+                ]
             },
             "type": "radical"
         }
@@ -1259,7 +1377,7 @@
                 ],
                 "general": "贝"
             },
-            "hieroglyph_id": "154",
+            "id": "154",
             "pinyin": "bèi",
             "raw_pinyin": "bei",
             "translation": {
@@ -1280,11 +1398,13 @@
             "chinese": {
                 "general": "豸"
             },
-            "hieroglyph_id": "153",
+            "id": "153",
             "pinyin": "zhì",
             "raw_pinyin": "zhi",
             "translation": {
-                "ru": " единорог "
+                "ru": [
+                    "единорог"
+                ]
             },
             "type": "radical"
         }
@@ -1294,11 +1414,13 @@
             "chinese": {
                 "general": "豕"
             },
-            "hieroglyph_id": "152",
+            "id": "152",
             "pinyin": "shǐ",
             "raw_pinyin": "shi",
             "translation": {
-                "ru": " свинья "
+                "ru": [
+                    "свинья"
+                ]
             },
             "type": "radical"
         }
@@ -1308,11 +1430,13 @@
             "chinese": {
                 "general": "豆"
             },
-            "hieroglyph_id": "151",
+            "id": "151",
             "pinyin": "dòu",
             "raw_pinyin": "dou",
             "translation": {
-                "ru": " бобы "
+                "ru": [
+                    "бобы"
+                ]
             },
             "type": "radical"
         }
@@ -1322,11 +1446,13 @@
             "chinese": {
                 "general": "谷"
             },
-            "hieroglyph_id": "150",
+            "id": "150",
             "pinyin": "gǔ",
             "raw_pinyin": "gu",
             "translation": {
-                "ru": " долина "
+                "ru": [
+                    "долина"
+                ]
             },
             "type": "radical"
         }
@@ -1341,11 +1467,13 @@
                 ],
                 "general": "言"
             },
-            "hieroglyph_id": "149",
+            "id": "149",
             "pinyin": "yán",
             "raw_pinyin": "yan",
             "translation": {
-                "ru": " речь "
+                "ru": [
+                    "речь"
+                ]
             },
             "type": "radical"
         }
@@ -1355,7 +1483,7 @@
             "chinese": {
                 "general": "角"
             },
-            "hieroglyph_id": "148",
+            "id": "148",
             "pinyin": "jiǎo",
             "raw_pinyin": "jiao",
             "translation": {
@@ -1379,7 +1507,7 @@
                 ],
                 "general": "见"
             },
-            "hieroglyph_id": "147",
+            "id": "147",
             "pinyin": "jiàn",
             "raw_pinyin": "jian",
             "translation": {
@@ -1404,7 +1532,7 @@
                 ],
                 "general": "襾"
             },
-            "hieroglyph_id": "146",
+            "id": "146",
             "pinyin": "yà",
             "raw_pinyin": "ya",
             "translation": {
@@ -1428,11 +1556,13 @@
                 ],
                 "general": "衣"
             },
-            "hieroglyph_id": "145",
+            "id": "145",
             "pinyin": "yī",
             "raw_pinyin": "yi",
             "translation": {
-                "ru": " одежда "
+                "ru": [
+                    "одежда"
+                ]
             },
             "type": "radical"
         }
@@ -1442,7 +1572,7 @@
             "chinese": {
                 "general": "行"
             },
-            "hieroglyph_id": "144",
+            "id": "144",
             "pinyin": "xíng",
             "raw_pinyin": "xing",
             "translation": {
@@ -1463,11 +1593,13 @@
             "chinese": {
                 "general": "血"
             },
-            "hieroglyph_id": "143",
+            "id": "143",
             "pinyin": "xuè",
             "raw_pinyin": "xie",
             "translation": {
-                "ru": " кровь "
+                "ru": [
+                    "кровь"
+                ]
             },
             "type": "radical"
         }
@@ -1477,7 +1609,7 @@
             "chinese": {
                 "general": "虫"
             },
-            "hieroglyph_id": "142",
+            "id": "142",
             "pinyin": "chóng",
             "raw_pinyin": "chong",
             "translation": {
@@ -1498,11 +1630,13 @@
             "chinese": {
                 "general": "虍"
             },
-            "hieroglyph_id": "141",
+            "id": "141",
             "pinyin": "hū",
             "raw_pinyin": "hu",
             "translation": {
-                "ru": " тигр "
+                "ru": [
+                    "тигр"
+                ]
             },
             "type": "radical"
         }
@@ -1515,11 +1649,13 @@
                 ],
                 "general": "艸"
             },
-            "hieroglyph_id": "140",
+            "id": "140",
             "pinyin": "cǎo",
             "raw_pinyin": "cao",
             "translation": {
-                "ru": " трава "
+                "ru": [
+                    "трава"
+                ]
             },
             "type": "radical"
         }
@@ -1529,11 +1665,13 @@
             "chinese": {
                 "general": "色"
             },
-            "hieroglyph_id": "139",
+            "id": "139",
             "pinyin": "sè",
             "raw_pinyin": "se",
             "translation": {
-                "ru": " цвет "
+                "ru": [
+                    "цвет"
+                ]
             },
             "type": "radical"
         }
@@ -1543,7 +1681,7 @@
             "chinese": {
                 "general": "艮"
             },
-            "hieroglyph_id": "138",
+            "id": "138",
             "pinyin": "gēn",
             "raw_pinyin": "gen",
             "translation": {
@@ -1564,7 +1702,7 @@
             "chinese": {
                 "general": "舟"
             },
-            "hieroglyph_id": "137",
+            "id": "137",
             "pinyin": "zhōu",
             "raw_pinyin": "zhou",
             "translation": {
@@ -1585,7 +1723,7 @@
             "chinese": {
                 "general": "舛"
             },
-            "hieroglyph_id": "136",
+            "id": "136",
             "pinyin": "chuǎn",
             "raw_pinyin": "chuan",
             "translation": {
@@ -1606,11 +1744,13 @@
             "chinese": {
                 "general": "舌"
             },
-            "hieroglyph_id": "135",
+            "id": "135",
             "pinyin": "shé",
             "raw_pinyin": "she",
             "translation": {
-                "ru": " язык "
+                "ru": [
+                    "язык"
+                ]
             },
             "type": "radical"
         }
@@ -1620,11 +1760,13 @@
             "chinese": {
                 "general": "臼"
             },
-            "hieroglyph_id": "134",
+            "id": "134",
             "pinyin": "jiù",
             "raw_pinyin": "jiu",
             "translation": {
-                "ru": " ступа "
+                "ru": [
+                    "ступа"
+                ]
             },
             "type": "radical"
         }
@@ -1634,7 +1776,7 @@
             "chinese": {
                 "general": "至"
             },
-            "hieroglyph_id": "133",
+            "id": "133",
             "pinyin": "zhì",
             "raw_pinyin": "zhi",
             "translation": {
@@ -1655,7 +1797,7 @@
             "chinese": {
                 "general": "自"
             },
-            "hieroglyph_id": "132",
+            "id": "132",
             "pinyin": "zì",
             "raw_pinyin": "zi",
             "translation": {
@@ -1676,11 +1818,13 @@
             "chinese": {
                 "general": "臣"
             },
-            "hieroglyph_id": "131",
+            "id": "131",
             "pinyin": "chén",
             "raw_pinyin": "chen",
             "translation": {
-                "ru": " подданный "
+                "ru": [
+                    "подданный"
+                ]
             },
             "type": "radical"
         }
@@ -1690,11 +1834,13 @@
             "chinese": {
                 "general": "肉"
             },
-            "hieroglyph_id": "130",
+            "id": "130",
             "pinyin": "ròu",
             "raw_pinyin": "rou",
             "translation": {
-                "ru": " мясо "
+                "ru": [
+                    "мясо"
+                ]
             },
             "type": "radical"
         }
@@ -1708,11 +1854,13 @@
                 ],
                 "general": "聿"
             },
-            "hieroglyph_id": "129",
+            "id": "129",
             "pinyin": "yù",
             "raw_pinyin": "yu",
             "translation": {
-                "ru": " кисть для письма "
+                "ru": [
+                    "кисть для письма"
+                ]
             },
             "type": "radical"
         }
@@ -1722,11 +1870,13 @@
             "chinese": {
                 "general": "耳"
             },
-            "hieroglyph_id": "128",
+            "id": "128",
             "pinyin": "ěr",
             "raw_pinyin": "er",
             "translation": {
-                "ru": " ухо "
+                "ru": [
+                    "ухо"
+                ]
             },
             "type": "radical"
         }
@@ -1736,7 +1886,7 @@
             "chinese": {
                 "general": "耒"
             },
-            "hieroglyph_id": "127",
+            "id": "127",
             "pinyin": "lěi",
             "raw_pinyin": "lei",
             "translation": {
@@ -1757,7 +1907,7 @@
             "chinese": {
                 "general": "而"
             },
-            "hieroglyph_id": "126",
+            "id": "126",
             "pinyin": "ér",
             "raw_pinyin": "er",
             "translation": {
@@ -1781,11 +1931,13 @@
                 ],
                 "general": "老"
             },
-            "hieroglyph_id": "125",
+            "id": "125",
             "pinyin": "lǎo",
             "raw_pinyin": "lao",
             "translation": {
-                "ru": " старый "
+                "ru": [
+                    "старый"
+                ]
             },
             "type": "radical"
         }
@@ -1795,7 +1947,7 @@
             "chinese": {
                 "general": "羽"
             },
-            "hieroglyph_id": "124",
+            "id": "124",
             "pinyin": "yǔ",
             "raw_pinyin": "yu",
             "translation": {
@@ -1820,11 +1972,13 @@
                 ],
                 "general": "羊"
             },
-            "hieroglyph_id": "123",
+            "id": "123",
             "pinyin": "yáng",
             "raw_pinyin": "yang",
             "translation": {
-                "ru": " баран "
+                "ru": [
+                    "баран"
+                ]
             },
             "type": "radical"
         }
@@ -1839,11 +1993,13 @@
                 ],
                 "general": "网"
             },
-            "hieroglyph_id": "122",
+            "id": "122",
             "pinyin": "wǎng",
             "raw_pinyin": "wang",
             "translation": {
-                "ru": " сеть "
+                "ru": [
+                    "сеть"
+                ]
             },
             "type": "radical"
         }
@@ -1853,7 +2009,7 @@
             "chinese": {
                 "general": "缶"
             },
-            "hieroglyph_id": "121",
+            "id": "121",
             "pinyin": "fǒu",
             "raw_pinyin": "fou",
             "translation": {
@@ -1878,7 +2034,7 @@
                 ],
                 "general": "纟"
             },
-            "hieroglyph_id": "120",
+            "id": "120",
             "pinyin": "mì",
             "raw_pinyin": "si",
             "translation": {
@@ -1899,11 +2055,13 @@
             "chinese": {
                 "general": "米"
             },
-            "hieroglyph_id": "119",
+            "id": "119",
             "pinyin": "mǐ",
             "raw_pinyin": "mi",
             "translation": {
-                "ru": " рис "
+                "ru": [
+                    "рис"
+                ]
             },
             "type": "radical"
         }
@@ -1916,11 +2074,13 @@
                 ],
                 "general": "竹"
             },
-            "hieroglyph_id": "118",
+            "id": "118",
             "pinyin": "zhú",
             "raw_pinyin": "zhu",
             "translation": {
-                "ru": " бамбук "
+                "ru": [
+                    "бамбук"
+                ]
             },
             "type": "radical"
         }
@@ -1930,11 +2090,13 @@
             "chinese": {
                 "general": "立"
             },
-            "hieroglyph_id": "117",
+            "id": "117",
             "pinyin": "lì",
             "raw_pinyin": "li",
             "translation": {
-                "ru": " стоять "
+                "ru": [
+                    "стоять"
+                ]
             },
             "type": "radical"
         }
@@ -1944,11 +2106,13 @@
             "chinese": {
                 "general": "穴"
             },
-            "hieroglyph_id": "116",
+            "id": "116",
             "pinyin": "xué",
             "raw_pinyin": "xue",
             "translation": {
-                "ru": " пещера "
+                "ru": [
+                    "пещера"
+                ]
             },
             "type": "radical"
         }
@@ -1958,11 +2122,13 @@
             "chinese": {
                 "general": "禾"
             },
-            "hieroglyph_id": "115",
+            "id": "115",
             "pinyin": "hé",
             "raw_pinyin": "he",
             "translation": {
-                "ru": " хлеб на корню "
+                "ru": [
+                    "хлеб на корню"
+                ]
             },
             "type": "radical"
         }
@@ -1972,11 +2138,13 @@
             "chinese": {
                 "general": "禸"
             },
-            "hieroglyph_id": "114",
+            "id": "114",
             "pinyin": "róu",
             "raw_pinyin": "rou",
             "translation": {
-                "ru": " след зверя "
+                "ru": [
+                    "след зверя"
+                ]
             },
             "type": "radical"
         }
@@ -1989,7 +2157,7 @@
                 ],
                 "general": "示"
             },
-            "hieroglyph_id": "113",
+            "id": "113",
             "pinyin": "shì",
             "raw_pinyin": "shi",
             "translation": {
@@ -2010,11 +2178,13 @@
             "chinese": {
                 "general": "石"
             },
-            "hieroglyph_id": "112",
+            "id": "112",
             "pinyin": "shí",
             "raw_pinyin": "shi",
             "translation": {
-                "ru": " камень "
+                "ru": [
+                    "камень"
+                ]
             },
             "type": "radical"
         }
@@ -2024,11 +2194,13 @@
             "chinese": {
                 "general": "矢"
             },
-            "hieroglyph_id": "111",
+            "id": "111",
             "pinyin": "shǐ",
             "raw_pinyin": "shi",
             "translation": {
-                "ru": " стрела "
+                "ru": [
+                    "стрела"
+                ]
             },
             "type": "radical"
         }
@@ -2038,11 +2210,13 @@
             "chinese": {
                 "general": "矛"
             },
-            "hieroglyph_id": "110",
+            "id": "110",
             "pinyin": "máo",
             "raw_pinyin": "mao",
             "translation": {
-                "ru": " копье "
+                "ru": [
+                    "копье"
+                ]
             },
             "type": "radical"
         }
@@ -2052,11 +2226,13 @@
             "chinese": {
                 "general": "目"
             },
-            "hieroglyph_id": "109",
+            "id": "109",
             "pinyin": "mù",
             "raw_pinyin": "mu",
             "translation": {
-                "ru": " глаз "
+                "ru": [
+                    "глаз"
+                ]
             },
             "type": "radical"
         }
@@ -2066,7 +2242,7 @@
             "chinese": {
                 "general": "皿"
             },
-            "hieroglyph_id": "108",
+            "id": "108",
             "pinyin": "mǐn",
             "raw_pinyin": "min",
             "translation": {
@@ -2087,7 +2263,7 @@
             "chinese": {
                 "general": "皮"
             },
-            "hieroglyph_id": "107",
+            "id": "107",
             "pinyin": "pí",
             "raw_pinyin": "pi",
             "translation": {
@@ -2108,11 +2284,13 @@
             "chinese": {
                 "general": "白"
             },
-            "hieroglyph_id": "106",
+            "id": "106",
             "pinyin": "bái",
             "raw_pinyin": "bai",
             "translation": {
-                "ru": " белый "
+                "ru": [
+                    "белый"
+                ]
             },
             "type": "radical"
         }
@@ -2122,11 +2300,13 @@
             "chinese": {
                 "general": "癶"
             },
-            "hieroglyph_id": "105",
+            "id": "105",
             "pinyin": "bō",
             "raw_pinyin": "bo",
             "translation": {
-                "ru": " ноги врозь "
+                "ru": [
+                    "ноги врозь"
+                ]
             },
             "type": "radical"
         }
@@ -2136,11 +2316,13 @@
             "chinese": {
                 "general": "疒"
             },
-            "hieroglyph_id": "104",
+            "id": "104",
             "pinyin": "chuáng",
             "raw_pinyin": "chuang",
             "translation": {
-                "ru": " болезнь "
+                "ru": [
+                    "болезнь"
+                ]
             },
             "type": "radical"
         }
@@ -2153,7 +2335,7 @@
                 ],
                 "general": "疋"
             },
-            "hieroglyph_id": "103",
+            "id": "103",
             "pinyin": "pǐ",
             "raw_pinyin": "pi",
             "translation": {
@@ -2174,11 +2356,13 @@
             "chinese": {
                 "general": "田"
             },
-            "hieroglyph_id": "102",
+            "id": "102",
             "pinyin": "tián",
             "raw_pinyin": "tian",
             "translation": {
-                "ru": " поле "
+                "ru": [
+                    "поле"
+                ]
             },
             "type": "radical"
         }
@@ -2191,7 +2375,7 @@
                 ],
                 "general": "用"
             },
-            "hieroglyph_id": "101",
+            "id": "101",
             "pinyin": "yòng",
             "raw_pinyin": "yong",
             "translation": {
@@ -2212,7 +2396,7 @@
             "chinese": {
                 "general": "生"
             },
-            "hieroglyph_id": "100",
+            "id": "100",
             "pinyin": "shēng",
             "raw_pinyin": "sheng",
             "translation": {
@@ -2233,11 +2417,13 @@
             "chinese": {
                 "general": "甘"
             },
-            "hieroglyph_id": "99",
+            "id": "99",
             "pinyin": "gān",
             "raw_pinyin": "gan",
             "translation": {
-                "ru": " сладкий "
+                "ru": [
+                    "сладкий"
+                ]
             },
             "type": "radical"
         }
@@ -2247,11 +2433,13 @@
             "chinese": {
                 "general": "瓦"
             },
-            "hieroglyph_id": "98",
+            "id": "98",
             "pinyin": "wǎ",
             "raw_pinyin": "wa",
             "translation": {
-                "ru": " черепица "
+                "ru": [
+                    "черепица"
+                ]
             },
             "type": "radical"
         }
@@ -2261,7 +2449,7 @@
             "chinese": {
                 "general": "瓜"
             },
-            "hieroglyph_id": "97",
+            "id": "97",
             "pinyin": "guā",
             "raw_pinyin": "gua",
             "translation": {
@@ -2282,11 +2470,13 @@
             "chinese": {
                 "general": "玉"
             },
-            "hieroglyph_id": "96",
+            "id": "96",
             "pinyin": "yù",
             "raw_pinyin": "yu",
             "translation": {
-                "ru": " яшма "
+                "ru": [
+                    "яшма"
+                ]
             },
             "type": "radical"
         }
@@ -2296,7 +2486,7 @@
             "chinese": {
                 "general": "玄"
             },
-            "hieroglyph_id": "95",
+            "id": "95",
             "pinyin": "xuán",
             "raw_pinyin": "xuan",
             "translation": {
@@ -2320,11 +2510,13 @@
                 ],
                 "general": "犬"
             },
-            "hieroglyph_id": "94",
+            "id": "94",
             "pinyin": "quǎn",
             "raw_pinyin": "quan",
             "translation": {
-                "ru": " собака "
+                "ru": [
+                    "собака"
+                ]
             },
             "type": "radical"
         }
@@ -2338,7 +2530,7 @@
                 ],
                 "general": "牛"
             },
-            "hieroglyph_id": "93",
+            "id": "93",
             "pinyin": "niú",
             "raw_pinyin": "niu",
             "translation": {
@@ -2359,11 +2551,13 @@
             "chinese": {
                 "general": "牙"
             },
-            "hieroglyph_id": "92",
+            "id": "92",
             "pinyin": "yá",
             "raw_pinyin": "ya",
             "translation": {
-                "ru": " зуб "
+                "ru": [
+                    "зуб"
+                ]
             },
             "type": "radical"
         }
@@ -2373,7 +2567,7 @@
             "chinese": {
                 "general": "片"
             },
-            "hieroglyph_id": "91",
+            "id": "91",
             "pinyin": "piàn",
             "raw_pinyin": "pian",
             "translation": {
@@ -2397,7 +2591,7 @@
                 ],
                 "general": "爿"
             },
-            "hieroglyph_id": "90",
+            "id": "90",
             "pinyin": "qiáng",
             "raw_pinyin": "qiang",
             "translation": {
@@ -2418,7 +2612,7 @@
             "chinese": {
                 "general": "爻"
             },
-            "hieroglyph_id": "89",
+            "id": "89",
             "pinyin": "yáo",
             "raw_pinyin": "yao",
             "translation": {
@@ -2439,11 +2633,13 @@
             "chinese": {
                 "general": "父"
             },
-            "hieroglyph_id": "88",
+            "id": "88",
             "pinyin": "fù",
             "raw_pinyin": "fu",
             "translation": {
-                "ru": " отец "
+                "ru": [
+                    "отец"
+                ]
             },
             "type": "radical"
         }
@@ -2456,11 +2652,13 @@
                 ],
                 "general": "爪"
             },
-            "hieroglyph_id": "87",
+            "id": "87",
             "pinyin": "zhǎo",
             "raw_pinyin": "zhua",
             "translation": {
-                "ru": " когти "
+                "ru": [
+                    "когти"
+                ]
             },
             "type": "radical"
         }
@@ -2473,11 +2671,13 @@
                 ],
                 "general": "火"
             },
-            "hieroglyph_id": "86",
+            "id": "86",
             "pinyin": "huǒ",
             "raw_pinyin": "huo",
             "translation": {
-                "ru": " огонь "
+                "ru": [
+                    "огонь"
+                ]
             },
             "type": "radical"
         }
@@ -2491,11 +2691,13 @@
                 ],
                 "general": "水"
             },
-            "hieroglyph_id": "85",
+            "id": "85",
             "pinyin": "shuǐ",
             "raw_pinyin": "shui",
             "translation": {
-                "ru": " вода "
+                "ru": [
+                    "вода"
+                ]
             },
             "type": "radical"
         }
@@ -2505,7 +2707,7 @@
             "chinese": {
                 "general": "气"
             },
-            "hieroglyph_id": "84",
+            "id": "84",
             "pinyin": "qì",
             "raw_pinyin": "qi",
             "translation": {
@@ -2526,7 +2728,7 @@
             "chinese": {
                 "general": "氏"
             },
-            "hieroglyph_id": "83",
+            "id": "83",
             "pinyin": "shì",
             "raw_pinyin": "shi",
             "translation": {
@@ -2547,7 +2749,7 @@
             "chinese": {
                 "general": "毛"
             },
-            "hieroglyph_id": "82",
+            "id": "82",
             "pinyin": "máo",
             "raw_pinyin": "mao",
             "translation": {
@@ -2568,11 +2770,13 @@
             "chinese": {
                 "general": "比"
             },
-            "hieroglyph_id": "81",
+            "id": "81",
             "pinyin": "bǐ",
             "raw_pinyin": "bi",
             "translation": {
-                "ru": " сравнивать "
+                "ru": [
+                    "сравнивать"
+                ]
             },
             "type": "radical"
         }
@@ -2582,7 +2786,7 @@
             "chinese": {
                 "general": "毋"
             },
-            "hieroglyph_id": "80",
+            "id": "80",
             "pinyin": "wú",
             "raw_pinyin": "wu",
             "translation": {
@@ -2603,11 +2807,13 @@
             "chinese": {
                 "general": "殳"
             },
-            "hieroglyph_id": "79",
+            "id": "79",
             "pinyin": "shū",
             "raw_pinyin": "shu",
             "translation": {
-                "ru": " бамбуковая пика "
+                "ru": [
+                    "бамбуковая пика"
+                ]
             },
             "type": "radical"
         }
@@ -2620,7 +2826,7 @@
                 ],
                 "general": "歹"
             },
-            "hieroglyph_id": "78",
+            "id": "78",
             "pinyin": "dǎi",
             "raw_pinyin": "dai",
             "translation": {
@@ -2641,7 +2847,7 @@
             "chinese": {
                 "general": "止"
             },
-            "hieroglyph_id": "77",
+            "id": "77",
             "pinyin": "zhǐ",
             "raw_pinyin": "zhi",
             "translation": {
@@ -2662,11 +2868,13 @@
             "chinese": {
                 "general": "欠"
             },
-            "hieroglyph_id": "76",
+            "id": "76",
             "pinyin": "qiàn",
             "raw_pinyin": "qian",
             "translation": {
-                "ru": " недоставать "
+                "ru": [
+                    "недоставать"
+                ]
             },
             "type": "radical"
         }
@@ -2676,11 +2884,13 @@
             "chinese": {
                 "general": "木"
             },
-            "hieroglyph_id": "75",
+            "id": "75",
             "pinyin": "mù",
             "raw_pinyin": "mu",
             "translation": {
-                "ru": " дерево "
+                "ru": [
+                    "дерево"
+                ]
             },
             "type": "radical"
         }
@@ -2690,11 +2900,13 @@
             "chinese": {
                 "general": "月"
             },
-            "hieroglyph_id": "74",
+            "id": "74",
             "pinyin": "yuè",
             "raw_pinyin": "yue",
             "translation": {
-                "ru": " луна "
+                "ru": [
+                    "луна"
+                ]
             },
             "type": "radical"
         }
@@ -2704,11 +2916,13 @@
             "chinese": {
                 "general": "曰"
             },
-            "hieroglyph_id": "73",
+            "id": "73",
             "pinyin": "yuē",
             "raw_pinyin": "yue",
             "translation": {
-                "ru": " говорить "
+                "ru": [
+                    "говорить"
+                ]
             },
             "type": "radical"
         }
@@ -2718,11 +2932,13 @@
             "chinese": {
                 "general": "日"
             },
-            "hieroglyph_id": "72",
+            "id": "72",
             "pinyin": "rì",
             "raw_pinyin": "ri",
             "translation": {
-                "ru": " солнце "
+                "ru": [
+                    "солнце"
+                ]
             },
             "type": "radical"
         }
@@ -2732,7 +2948,7 @@
             "chinese": {
                 "general": "无"
             },
-            "hieroglyph_id": "71",
+            "id": "71",
             "pinyin": "wú",
             "raw_pinyin": "wu",
             "translation": {
@@ -2753,7 +2969,7 @@
             "chinese": {
                 "general": "方"
             },
-            "hieroglyph_id": "70",
+            "id": "70",
             "pinyin": "fāng",
             "raw_pinyin": "fang",
             "translation": {
@@ -2774,11 +2990,13 @@
             "chinese": {
                 "general": "斤"
             },
-            "hieroglyph_id": "69",
+            "id": "69",
             "pinyin": "jīn",
             "raw_pinyin": "jin",
             "translation": {
-                "ru": " топор "
+                "ru": [
+                    "топор"
+                ]
             },
             "type": "radical"
         }
@@ -2788,7 +3006,7 @@
             "chinese": {
                 "general": "斗"
             },
-            "hieroglyph_id": "68",
+            "id": "68",
             "pinyin": "dǒu",
             "raw_pinyin": "dou",
             "translation": {
@@ -2809,7 +3027,7 @@
             "chinese": {
                 "general": "文"
             },
-            "hieroglyph_id": "67",
+            "id": "67",
             "pinyin": "wén",
             "raw_pinyin": "wen",
             "translation": {
@@ -2833,7 +3051,7 @@
                 ],
                 "general": "攴"
             },
-            "hieroglyph_id": "66",
+            "id": "66",
             "pinyin": "pū",
             "raw_pinyin": "pu",
             "translation": {
@@ -2854,11 +3072,13 @@
             "chinese": {
                 "general": "支"
             },
-            "hieroglyph_id": "65",
+            "id": "65",
             "pinyin": "zhī",
             "raw_pinyin": "zhi",
             "translation": {
-                "ru": " ветка "
+                "ru": [
+                    "ветка"
+                ]
             },
             "type": "radical"
         }
@@ -2872,11 +3092,13 @@
                 ],
                 "general": "手"
             },
-            "hieroglyph_id": "64",
+            "id": "64",
             "pinyin": "shǒu",
             "raw_pinyin": "shou",
             "translation": {
-                "ru": " рука "
+                "ru": [
+                    "рука"
+                ]
             },
             "type": "radical"
         }
@@ -2890,11 +3112,13 @@
                 ],
                 "general": "户"
             },
-            "hieroglyph_id": "63",
+            "id": "63",
             "pinyin": "hù",
             "raw_pinyin": "hu",
             "translation": {
-                "ru": " двор "
+                "ru": [
+                    "двор"
+                ]
             },
             "type": "radical"
         }
@@ -2904,7 +3128,7 @@
             "chinese": {
                 "general": "戈"
             },
-            "hieroglyph_id": "62",
+            "id": "62",
             "pinyin": "gē",
             "raw_pinyin": "ge",
             "translation": {
@@ -2929,11 +3153,13 @@
                 ],
                 "general": "心"
             },
-            "hieroglyph_id": "61",
+            "id": "61",
             "pinyin": "xīn",
             "raw_pinyin": "xin",
             "translation": {
-                "ru": " сердце "
+                "ru": [
+                    "сердце"
+                ]
             },
             "type": "radical"
         }
@@ -2943,11 +3169,13 @@
             "chinese": {
                 "general": "彳"
             },
-            "hieroglyph_id": "60",
+            "id": "60",
             "pinyin": "chì",
             "raw_pinyin": "chi",
             "translation": {
-                "ru": " шаг (левой ногой) "
+                "ru": [
+                    "шаг (левой ногой)"
+                ]
             },
             "type": "radical"
         }
@@ -2957,7 +3185,7 @@
             "chinese": {
                 "general": "彡"
             },
-            "hieroglyph_id": "59",
+            "id": "59",
             "pinyin": "shān",
             "raw_pinyin": "shan",
             "translation": {
@@ -2981,11 +3209,13 @@
                 ],
                 "general": "彐"
             },
-            "hieroglyph_id": "58",
+            "id": "58",
             "pinyin": "jì",
             "raw_pinyin": "ji",
             "translation": {
-                "ru": " голова свиньи "
+                "ru": [
+                    "голова свиньи"
+                ]
             },
             "type": "radical"
         }
@@ -2995,11 +3225,13 @@
             "chinese": {
                 "general": "弓"
             },
-            "hieroglyph_id": "57",
+            "id": "57",
             "pinyin": "gōng",
             "raw_pinyin": "gong",
             "translation": {
-                "ru": " лук "
+                "ru": [
+                    "лук"
+                ]
             },
             "type": "radical"
         }
@@ -3009,11 +3241,13 @@
             "chinese": {
                 "general": "弋"
             },
-            "hieroglyph_id": "56",
+            "id": "56",
             "pinyin": "yì",
             "raw_pinyin": "yi",
             "translation": {
-                "ru": " стрелять из лука "
+                "ru": [
+                    "стрелять из лука"
+                ]
             },
             "type": "radical"
         }
@@ -3023,11 +3257,13 @@
             "chinese": {
                 "general": "廾"
             },
-            "hieroglyph_id": "55",
+            "id": "55",
             "pinyin": "gǒng",
             "raw_pinyin": "gong",
             "translation": {
-                "ru": " соединить руки "
+                "ru": [
+                    "соединить руки"
+                ]
             },
             "type": "radical"
         }
@@ -3037,7 +3273,7 @@
             "chinese": {
                 "general": "廴"
             },
-            "hieroglyph_id": "54",
+            "id": "54",
             "pinyin": "yǐn",
             "raw_pinyin": "yin",
             "translation": {
@@ -3058,11 +3294,13 @@
             "chinese": {
                 "general": "广"
             },
-            "hieroglyph_id": "53",
+            "id": "53",
             "pinyin": "guǎng",
             "raw_pinyin": "yan",
             "translation": {
-                "ru": " навес "
+                "ru": [
+                    "навес"
+                ]
             },
             "type": "radical"
         }
@@ -3072,7 +3310,7 @@
             "chinese": {
                 "general": "幺"
             },
-            "hieroglyph_id": "52",
+            "id": "52",
             "pinyin": "yāo",
             "raw_pinyin": "yao",
             "translation": {
@@ -3093,7 +3331,7 @@
             "chinese": {
                 "general": "干"
             },
-            "hieroglyph_id": "51",
+            "id": "51",
             "pinyin": "gān",
             "raw_pinyin": "gan",
             "translation": {
@@ -3114,7 +3352,7 @@
             "chinese": {
                 "general": "巾"
             },
-            "hieroglyph_id": "50",
+            "id": "50",
             "pinyin": "jīn",
             "raw_pinyin": "jin",
             "translation": {
@@ -3139,11 +3377,13 @@
                 ],
                 "general": "己"
             },
-            "hieroglyph_id": "49",
+            "id": "49",
             "pinyin": "jǐ",
             "raw_pinyin": "ji",
             "translation": {
-                "ru": " сам "
+                "ru": [
+                    "сам"
+                ]
             },
             "type": "radical"
         }
@@ -3153,11 +3393,13 @@
             "chinese": {
                 "general": "工"
             },
-            "hieroglyph_id": "48",
+            "id": "48",
             "pinyin": "gōng",
             "raw_pinyin": "gong",
             "translation": {
-                "ru": " работа "
+                "ru": [
+                    "работа"
+                ]
             },
             "type": "radical"
         }
@@ -3171,7 +3413,7 @@
                 ],
                 "general": "巛"
             },
-            "hieroglyph_id": "47",
+            "id": "47",
             "pinyin": "chuān",
             "raw_pinyin": "chuan",
             "translation": {
@@ -3192,11 +3434,13 @@
             "chinese": {
                 "general": "山"
             },
-            "hieroglyph_id": "46",
+            "id": "46",
             "pinyin": "shān",
             "raw_pinyin": "shan",
             "translation": {
-                "ru": " гора "
+                "ru": [
+                    "гора"
+                ]
             },
             "type": "radical"
         }
@@ -3206,11 +3450,13 @@
             "chinese": {
                 "general": "屮"
             },
-            "hieroglyph_id": "45",
+            "id": "45",
             "pinyin": "chè",
             "raw_pinyin": "che",
             "translation": {
-                "ru": " росток "
+                "ru": [
+                    "росток"
+                ]
             },
             "type": "radical"
         }
@@ -3220,11 +3466,13 @@
             "chinese": {
                 "general": "尸"
             },
-            "hieroglyph_id": "44",
+            "id": "44",
             "pinyin": "shī",
             "raw_pinyin": "shi",
             "translation": {
-                "ru": " труп "
+                "ru": [
+                    "труп"
+                ]
             },
             "type": "radical"
         }
@@ -3237,11 +3485,13 @@
                 ],
                 "general": "尢"
             },
-            "hieroglyph_id": "43",
+            "id": "43",
             "pinyin": "wāng",
             "raw_pinyin": "wang",
             "translation": {
-                "ru": " хромой "
+                "ru": [
+                    "хромой"
+                ]
             },
             "type": "radical"
         }
@@ -3255,11 +3505,13 @@
                 ],
                 "general": "小"
             },
-            "hieroglyph_id": "42",
+            "id": "42",
             "pinyin": "xiǎo",
             "raw_pinyin": "xiao",
             "translation": {
-                "ru": " маленький "
+                "ru": [
+                    "маленький"
+                ]
             },
             "type": "radical"
         }
@@ -3269,11 +3521,13 @@
             "chinese": {
                 "general": "寸"
             },
-            "hieroglyph_id": "41",
+            "id": "41",
             "pinyin": "cùn",
             "raw_pinyin": "cun",
             "translation": {
-                "ru": " вершок "
+                "ru": [
+                    "вершок"
+                ]
             },
             "type": "radical"
         }
@@ -3283,7 +3537,7 @@
             "chinese": {
                 "general": "宀"
             },
-            "hieroglyph_id": "40",
+            "id": "40",
             "pinyin": "mián",
             "raw_pinyin": "mian",
             "translation": {
@@ -3304,7 +3558,7 @@
             "chinese": {
                 "general": "子"
             },
-            "hieroglyph_id": "39",
+            "id": "39",
             "pinyin": "zǐ",
             "raw_pinyin": "zi",
             "translation": {
@@ -3325,11 +3579,13 @@
             "chinese": {
                 "general": "女"
             },
-            "hieroglyph_id": "38",
+            "id": "38",
             "pinyin": "nǚ",
             "raw_pinyin": "nu",
             "translation": {
-                "ru": " женщина "
+                "ru": [
+                    "женщина"
+                ]
             },
             "type": "radical"
         }
@@ -3339,11 +3595,13 @@
             "chinese": {
                 "general": "大"
             },
-            "hieroglyph_id": "37",
+            "id": "37",
             "pinyin": "dà",
             "raw_pinyin": "da",
             "translation": {
-                "ru": " большой "
+                "ru": [
+                    "большой"
+                ]
             },
             "type": "radical"
         }
@@ -3353,11 +3611,13 @@
             "chinese": {
                 "general": "夕"
             },
-            "hieroglyph_id": "36",
+            "id": "36",
             "pinyin": "xī",
             "raw_pinyin": "xi",
             "translation": {
-                "ru": " вечер "
+                "ru": [
+                    "вечер"
+                ]
             },
             "type": "radical"
         }
@@ -3367,7 +3627,7 @@
             "chinese": {
                 "general": "夊"
             },
-            "hieroglyph_id": "35",
+            "id": "35",
             "pinyin": "suī",
             "raw_pinyin": "sui",
             "translation": {
@@ -3388,7 +3648,7 @@
             "chinese": {
                 "general": "夂"
             },
-            "hieroglyph_id": "34",
+            "id": "34",
             "pinyin": "zhǐ",
             "raw_pinyin": "zhi",
             "translation": {
@@ -3409,11 +3669,13 @@
             "chinese": {
                 "general": "士"
             },
-            "hieroglyph_id": "33",
+            "id": "33",
             "pinyin": "shì",
             "raw_pinyin": "shi",
             "translation": {
-                "ru": " воин "
+                "ru": [
+                    "воин"
+                ]
             },
             "type": "radical"
         }
@@ -3423,11 +3685,13 @@
             "chinese": {
                 "general": "土"
             },
-            "hieroglyph_id": "32",
+            "id": "32",
             "pinyin": "tǔ",
             "raw_pinyin": "tu",
             "translation": {
-                "ru": " земля "
+                "ru": [
+                    "земля"
+                ]
             },
             "type": "radical"
         }
@@ -3437,7 +3701,7 @@
             "chinese": {
                 "general": "囗"
             },
-            "hieroglyph_id": "31",
+            "id": "31",
             "pinyin": "wéi",
             "raw_pinyin": "wei",
             "translation": {
@@ -3458,11 +3722,13 @@
             "chinese": {
                 "general": "口"
             },
-            "hieroglyph_id": "30",
+            "id": "30",
             "pinyin": "kǒu",
             "raw_pinyin": "kou",
             "translation": {
-                "ru": " рот "
+                "ru": [
+                    "рот"
+                ]
             },
             "type": "radical"
         }
@@ -3472,7 +3738,7 @@
             "chinese": {
                 "general": "又"
             },
-            "hieroglyph_id": "29",
+            "id": "29",
             "pinyin": "yòu",
             "raw_pinyin": "you",
             "translation": {
@@ -3493,7 +3759,7 @@
             "chinese": {
                 "general": "厶"
             },
-            "hieroglyph_id": "28",
+            "id": "28",
             "pinyin": "sī",
             "raw_pinyin": "si",
             "translation": {
@@ -3514,7 +3780,7 @@
             "chinese": {
                 "general": "厂"
             },
-            "hieroglyph_id": "27",
+            "id": "27",
             "pinyin": "chǎng",
             "raw_pinyin": "han",
             "translation": {
@@ -3538,7 +3804,7 @@
                 ],
                 "general": "卩"
             },
-            "hieroglyph_id": "26",
+            "id": "26",
             "pinyin": "jié",
             "raw_pinyin": "jie",
             "translation": {
@@ -3559,11 +3825,13 @@
             "chinese": {
                 "general": "卜"
             },
-            "hieroglyph_id": "25",
+            "id": "25",
             "pinyin": "bǔ",
             "raw_pinyin": "bu",
             "translation": {
-                "ru": " гадать "
+                "ru": [
+                    "гадать"
+                ]
             },
             "type": "radical"
         }
@@ -3573,11 +3841,13 @@
             "chinese": {
                 "general": "十"
             },
-            "hieroglyph_id": "24",
+            "id": "24",
             "pinyin": "shí",
             "raw_pinyin": "shi",
             "translation": {
-                "ru": " десять "
+                "ru": [
+                    "десять"
+                ]
             },
             "type": "radical"
         }
@@ -3587,11 +3857,13 @@
             "chinese": {
                 "general": "匸"
             },
-            "hieroglyph_id": "23",
+            "id": "23",
             "pinyin": "xì",
             "raw_pinyin": "xi",
             "translation": {
-                "ru": " прятать "
+                "ru": [
+                    "прятать"
+                ]
             },
             "type": "radical"
         }
@@ -3601,7 +3873,7 @@
             "chinese": {
                 "general": "匚"
             },
-            "hieroglyph_id": "22",
+            "id": "22",
             "pinyin": "fāng",
             "raw_pinyin": "fang",
             "translation": {
@@ -3622,7 +3894,7 @@
             "chinese": {
                 "general": "匕"
             },
-            "hieroglyph_id": "21",
+            "id": "21",
             "pinyin": "bǐ",
             "raw_pinyin": "bi",
             "translation": {
@@ -3643,11 +3915,13 @@
             "chinese": {
                 "general": "勹"
             },
-            "hieroglyph_id": "20",
+            "id": "20",
             "pinyin": "bāo",
             "raw_pinyin": "bao",
             "translation": {
-                "ru": " обёртывать "
+                "ru": [
+                    "обёртывать"
+                ]
             },
             "type": "radical"
         }
@@ -3657,11 +3931,13 @@
             "chinese": {
                 "general": "力"
             },
-            "hieroglyph_id": "19",
+            "id": "19",
             "pinyin": "lì",
             "raw_pinyin": "li",
             "translation": {
-                "ru": " сила "
+                "ru": [
+                    "сила"
+                ]
             },
             "type": "radical"
         }
@@ -3674,11 +3950,13 @@
                 ],
                 "general": "刀"
             },
-            "hieroglyph_id": "18",
+            "id": "18",
             "pinyin": "dāo",
             "raw_pinyin": "dao",
             "translation": {
-                "ru": " нож "
+                "ru": [
+                    "нож"
+                ]
             },
             "type": "radical"
         }
@@ -3688,11 +3966,13 @@
             "chinese": {
                 "general": "凵"
             },
-            "hieroglyph_id": "17",
+            "id": "17",
             "pinyin": "kǎn",
             "raw_pinyin": "qu",
             "translation": {
-                "ru": " яма "
+                "ru": [
+                    "яма"
+                ]
             },
             "type": "radical"
         }
@@ -3702,7 +3982,7 @@
             "chinese": {
                 "general": "几"
             },
-            "hieroglyph_id": "16",
+            "id": "16",
             "pinyin": "jī",
             "raw_pinyin": "ji",
             "translation": {
@@ -3723,11 +4003,13 @@
             "chinese": {
                 "general": "冫"
             },
-            "hieroglyph_id": "15",
+            "id": "15",
             "pinyin": "bīng",
             "raw_pinyin": "bing",
             "translation": {
-                "ru": " лёд "
+                "ru": [
+                    "лёд"
+                ]
             },
             "type": "radical"
         }
@@ -3737,11 +4019,13 @@
             "chinese": {
                 "general": "冖"
             },
-            "hieroglyph_id": "14",
+            "id": "14",
             "pinyin": "mì",
             "raw_pinyin": "mi",
             "translation": {
-                "ru": " крышка "
+                "ru": [
+                    "крышка"
+                ]
             },
             "type": "radical"
         }
@@ -3751,11 +4035,13 @@
             "chinese": {
                 "general": "冂"
             },
-            "hieroglyph_id": "13",
+            "id": "13",
             "pinyin": "jiōng",
             "raw_pinyin": "jiong",
             "translation": {
-                "ru": " границы "
+                "ru": [
+                    "границы"
+                ]
             },
             "type": "radical"
         }
@@ -3765,7 +4051,7 @@
             "chinese": {
                 "general": "八"
             },
-            "hieroglyph_id": "12",
+            "id": "12",
             "pinyin": "bā",
             "raw_pinyin": "ba",
             "translation": {
@@ -3786,11 +4072,13 @@
             "chinese": {
                 "general": "入"
             },
-            "hieroglyph_id": "11",
+            "id": "11",
             "pinyin": "rù",
             "raw_pinyin": "ru",
             "translation": {
-                "ru": " входить "
+                "ru": [
+                    "входить"
+                ]
             },
             "type": "radical"
         }
@@ -3800,11 +4088,13 @@
             "chinese": {
                 "general": "儿"
             },
-            "hieroglyph_id": "10",
+            "id": "10",
             "pinyin": "ér",
             "raw_pinyin": "er",
             "translation": {
-                "ru": " идущий человек "
+                "ru": [
+                    "идущий человек"
+                ]
             },
             "type": "radical"
         }
@@ -3817,11 +4107,13 @@
                 ],
                 "general": "人"
             },
-            "hieroglyph_id": "9",
+            "id": "9",
             "pinyin": "rén",
             "raw_pinyin": "ren",
             "translation": {
-                "ru": " человек "
+                "ru": [
+                    "человек"
+                ]
             },
             "type": "radical"
         }
@@ -3831,11 +4123,13 @@
             "chinese": {
                 "general": "亠"
             },
-            "hieroglyph_id": "8",
+            "id": "8",
             "pinyin": "tóu",
             "raw_pinyin": "tou",
             "translation": {
-                "ru": " горизонтальная с точкой "
+                "ru": [
+                    "горизонтальная с точкой"
+                ]
             },
             "type": "radical"
         }
@@ -3845,11 +4139,13 @@
             "chinese": {
                 "general": "二"
             },
-            "hieroglyph_id": "7",
+            "id": "7",
             "pinyin": "èr",
             "raw_pinyin": "er",
             "translation": {
-                "ru": " два "
+                "ru": [
+                    "два"
+                ]
             },
             "type": "radical"
         }
@@ -3859,11 +4155,13 @@
             "chinese": {
                 "general": "亅"
             },
-            "hieroglyph_id": "6",
+            "id": "6",
             "pinyin": "jué",
             "raw_pinyin": "jue",
             "translation": {
-                "ru": " вертикальная с крюком "
+                "ru": [
+                    "вертикальная с крюком"
+                ]
             },
             "type": "radical"
         }
@@ -3876,11 +4174,13 @@
                 ],
                 "general": "乙"
             },
-            "hieroglyph_id": "5",
+            "id": "5",
             "pinyin": "yǐ",
             "raw_pinyin": "yi",
             "translation": {
-                "ru": " второй (цикличный знак) "
+                "ru": [
+                    "второй (цикличный знак)"
+                ]
             },
             "type": "radical"
         }
@@ -3890,11 +4190,13 @@
             "chinese": {
                 "general": "丿"
             },
-            "hieroglyph_id": "4",
+            "id": "4",
             "pinyin": "piě",
             "raw_pinyin": "pie",
             "translation": {
-                "ru": " откидная влево "
+                "ru": [
+                    "откидная влево"
+                ]
             },
             "type": "radical"
         }
@@ -3904,11 +4206,13 @@
             "chinese": {
                 "general": "丶"
             },
-            "hieroglyph_id": "3",
+            "id": "3",
             "pinyin": "zhǔ",
             "raw_pinyin": "zhu",
             "translation": {
-                "ru": " точка "
+                "ru": [
+                    "точка"
+                ]
             },
             "type": "radical"
         }
@@ -3918,11 +4222,13 @@
             "chinese": {
                 "general": "丨"
             },
-            "hieroglyph_id": "2",
+            "id": "2",
             "pinyin": "gǔn",
             "raw_pinyin": "gun",
             "translation": {
-                "ru": " вертикальная "
+                "ru": [
+                    "вертикальная"
+                ]
             },
             "type": "radical"
         }
@@ -3932,11 +4238,13 @@
             "chinese": {
                 "general": "一"
             },
-            "hieroglyph_id": "1",
+            "id": "1",
             "pinyin": "yī",
             "raw_pinyin": "yi",
             "translation": {
-                "ru": " единица "
+                "ru": [
+                    "единица"
+                ]
             },
             "type": "radical"
         }

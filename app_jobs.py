@@ -34,7 +34,7 @@ def sync_messages_json():
     api_hash = 'e9fb0c49341d086e93f64db02abdf3c3'
     chat_id = -1001680578245
     with TelegramClient('name', api_id, api_hash) as client:
-        messages = client.get_messages(chat_id, limit=2000)
+        messages = client.get_messages(chat_id, limit=100)
         x = [(mes.message, mes.date.isoformat()) for mes in messages]
         print("Logging: ", "Unfiltered messages", len(x))
         filtered_messages = [(m, date) for m, date in x if check_has_id(m)]
@@ -58,7 +58,7 @@ def sync_graphemes_json():
     api_hash = 'e9fb0c49341d086e93f64db02abdf3c3'
     chat_id = -1001758833348
     with TelegramClient('name', api_id, api_hash) as client:
-        messages = client.get_messages(chat_id, limit=5000)
+        messages = client.get_messages(chat_id, limit=500)
         x = [(mes.message, mes.date.isoformat()) for mes in messages]
         print("Logging: ", "Unfiltered graphemes", len(x))
         filtered_g = [(m, date) for m, date in x if check_has_id(m)]
@@ -110,7 +110,7 @@ if __name__ == '__main__':
     print(unidecode("谢谢你"))
 
 
-# global_jobs = [{"name": "test_job_1",
+# global_jobs = [{"name": "test_job_1", ss
 #                 "action": test_job_1.__name__,
 #                 "type": "periodic",
 #                 "locked": 'false',

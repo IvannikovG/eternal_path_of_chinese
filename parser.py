@@ -39,12 +39,12 @@ def parse_langs(lang_array: list) -> dict:
         except Exception as e:
             print("Exception in parse langs: ", e)
     else:
-        return {'ru': lang_array[0]}
+        return {'ru': [lang_array[0]]}
 
 
 def parse_translation(translation: str) -> dict:
     try:
-        split_line = translation.split("/")
+        split_line = [s.strip() for s in translation.split("/")]
         translation = parse_langs(split_line)
         return translation
     except Exception as e:
@@ -133,7 +133,7 @@ def parse_g_header(header: str) -> dict:
     pinyin = split_header[2].strip()
     translation = get_by_index(split_header, 3)
     parsed_translation = parse_translation(translation)
-    return {'hieroglyph_id': hieroglyph_id,
+    return {'id': hieroglyph_id,
             'chinese': chinese,
             'raw_pinyin': unidecode(chinese).lower().strip(),
             'pinyin': pinyin,
