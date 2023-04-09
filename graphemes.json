@@ -2,8 +2,26 @@
     {
         "resource": {
             "chinese": {
+                "general": "合"
+            },
+            "converted_pinyin": "he2",
+            "id": "230",
+            "pinyin": "hé",
+            "raw_pinyin": "he",
+            "translation": {
+                "ru": [
+                    "подходить"
+                ]
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
                 "general": "百"
             },
+            "converted_pinyin": "bai3",
             "id": "229",
             "pinyin": "băi",
             "raw_pinyin": "bai",
@@ -20,6 +38,7 @@
             "chinese": {
                 "general": "王"
             },
+            "converted_pinyin": "wang2",
             "id": "228",
             "pinyin": "wáng",
             "raw_pinyin": "wang",
@@ -36,6 +55,7 @@
             "chinese": {
                 "general": "束"
             },
+            "converted_pinyin": "shu4",
             "id": "227",
             "pinyin": "shù",
             "raw_pinyin": "shu",
@@ -52,6 +72,7 @@
             "chinese": {
                 "general": "天"
             },
+            "converted_pinyin": "tian1",
             "id": "226",
             "pinyin": "tiān",
             "raw_pinyin": "tian",
@@ -68,6 +89,7 @@
             "chinese": {
                 "general": "去"
             },
+            "converted_pinyin": "qu4",
             "id": "225",
             "pinyin": "qù",
             "raw_pinyin": "qu",
@@ -90,6 +112,7 @@
             "chinese": {
                 "general": "七"
             },
+            "converted_pinyin": "qi1",
             "id": "224",
             "pinyin": "qí",
             "raw_pinyin": "qi",
@@ -106,6 +129,7 @@
             "chinese": {
                 "general": "不"
             },
+            "converted_pinyin": "bu4",
             "id": "223",
             "pinyin": "bù",
             "raw_pinyin": "bu",
@@ -122,6 +146,7 @@
             "chinese": {
                 "general": "良"
             },
+            "converted_pinyin": "liang2",
             "id": "222",
             "pinyin": "liáng",
             "raw_pinyin": "liang",
@@ -138,6 +163,7 @@
             "chinese": {
                 "general": "且"
             },
+            "converted_pinyin": "qie3",
             "id": "221",
             "pinyin": "qiē",
             "raw_pinyin": "qie",
@@ -154,6 +180,7 @@
             "chinese": {
                 "general": "也"
             },
+            "converted_pinyin": "ye3",
             "id": "220",
             "pinyin": "yě",
             "raw_pinyin": "ye",
@@ -170,6 +197,7 @@
             "chinese": {
                 "general": "下"
             },
+            "converted_pinyin": "xia4",
             "id": "219",
             "pinyin": "xià",
             "raw_pinyin": "xia",
@@ -186,6 +214,7 @@
             "chinese": {
                 "general": "上"
             },
+            "converted_pinyin": "shang4",
             "id": "218",
             "pinyin": "shàng",
             "raw_pinyin": "shang",
@@ -202,6 +231,7 @@
             "chinese": {
                 "general": "由"
             },
+            "converted_pinyin": "you2",
             "id": "217",
             "pinyin": "yóu",
             "raw_pinyin": "you",
@@ -218,6 +248,7 @@
             "chinese": {
                 "general": "中"
             },
+            "converted_pinyin": "zhong1",
             "id": "216",
             "pinyin": "zhōng",
             "raw_pinyin": "zhong",
@@ -234,6 +265,7 @@
             "chinese": {
                 "general": "凡"
             },
+            "converted_pinyin": "fan2",
             "id": "215",
             "pinyin": "fán",
             "raw_pinyin": "fan",
@@ -250,6 +282,7 @@
             "chinese": {
                 "general": "龠"
             },
+            "converted_pinyin": "yue4",
             "id": "214",
             "pinyin": "yuè",
             "raw_pinyin": "yue",
@@ -269,6 +302,7 @@
                 ],
                 "general": "龟"
             },
+            "converted_pinyin": "gui1",
             "id": "213",
             "pinyin": "guī",
             "raw_pinyin": "gui",
@@ -288,6 +322,7 @@
                 ],
                 "general": "龙"
             },
+            "converted_pinyin": "long2",
             "id": "212",
             "pinyin": "lóng",
             "raw_pinyin": "long",
@@ -307,6 +342,7 @@
                 ],
                 "general": "齿"
             },
+            "converted_pinyin": "chi3",
             "id": "211",
             "pinyin": "chǐ",
             "raw_pinyin": "chi",
@@ -326,6 +362,7 @@
                 ],
                 "general": "齐"
             },
+            "converted_pinyin": "qi2",
             "id": "210",
             "pinyin": "qí",
             "raw_pinyin": "qi",
@@ -347,6 +384,7 @@
             "chinese": {
                 "general": "鼻"
             },
+            "converted_pinyin": "bi2",
             "id": "209",
             "pinyin": "bí",
             "raw_pinyin": "bi",
@@ -363,6 +401,7 @@
             "chinese": {
                 "general": "鼠"
             },
+            "converted_pinyin": "shu3",
             "id": "208",
             "pinyin": "shǔ",
             "raw_pinyin": "shu",
@@ -379,6 +418,7 @@
             "chinese": {
                 "general": "鼓"
             },
+            "converted_pinyin": "gu3",
             "id": "207",
             "pinyin": "gǔ",
             "raw_pinyin": "gu",
@@ -395,6 +435,7 @@
             "chinese": {
                 "general": "鼎"
             },
+            "converted_pinyin": "ding3",
             "id": "206",
             "pinyin": "dǐng",
             "raw_pinyin": "ding",
@@ -414,6 +455,7 @@
                 ],
                 "general": "黾"
             },
+            "converted_pinyin": "min3",
             "id": "205",
             "pinyin": "mǐn",
             "raw_pinyin": "min",
@@ -435,6 +477,7 @@
             "chinese": {
                 "general": "黹"
             },
+            "converted_pinyin": "zhi3",
             "id": "204",
             "pinyin": "zhǐ",
             "raw_pinyin": "zhi",
@@ -451,6 +494,7 @@
             "chinese": {
                 "general": "黑"
             },
+            "converted_pinyin": "hei1",
             "id": "203",
             "pinyin": "hēi",
             "raw_pinyin": "hei",
@@ -467,6 +511,7 @@
             "chinese": {
                 "general": "黍"
             },
+            "converted_pinyin": "shu3",
             "id": "202",
             "pinyin": "shǔ",
             "raw_pinyin": "shu",
@@ -483,6 +528,7 @@
             "chinese": {
                 "general": "黃"
             },
+            "converted_pinyin": "huang2",
             "id": "201",
             "pinyin": "huáng",
             "raw_pinyin": "huang",
@@ -499,6 +545,7 @@
             "chinese": {
                 "general": "麻"
             },
+            "converted_pinyin": "ma2",
             "id": "200",
             "pinyin": "má",
             "raw_pinyin": "ma",
@@ -518,6 +565,7 @@
                 ],
                 "general": "麦"
             },
+            "converted_pinyin": "mai4",
             "id": "199",
             "pinyin": "mài",
             "raw_pinyin": "mai",
@@ -534,6 +582,7 @@
             "chinese": {
                 "general": "鹿"
             },
+            "converted_pinyin": "lu4",
             "id": "198",
             "pinyin": "lù",
             "raw_pinyin": "lu",
@@ -553,6 +602,7 @@
                 ],
                 "general": "卤"
             },
+            "converted_pinyin": "lu3",
             "id": "197",
             "pinyin": "lǔ",
             "raw_pinyin": "lu",
@@ -577,6 +627,7 @@
                 ],
                 "general": "鸟"
             },
+            "converted_pinyin": "niao3",
             "id": "196",
             "pinyin": "niǎo",
             "raw_pinyin": "niao",
@@ -596,6 +647,7 @@
                 ],
                 "general": "鱼"
             },
+            "converted_pinyin": "yu2",
             "id": "195",
             "pinyin": "yú",
             "raw_pinyin": "yu",
@@ -612,6 +664,7 @@
             "chinese": {
                 "general": "鬼"
             },
+            "converted_pinyin": "gui3",
             "id": "194",
             "pinyin": "guǐ",
             "raw_pinyin": "gui",
@@ -628,6 +681,7 @@
             "chinese": {
                 "general": "鬲"
             },
+            "converted_pinyin": "li4",
             "id": "193",
             "pinyin": "lì",
             "raw_pinyin": "li",
@@ -649,6 +703,7 @@
             "chinese": {
                 "general": "鬯"
             },
+            "converted_pinyin": "chang4",
             "id": "192",
             "pinyin": "chàng",
             "raw_pinyin": "chang",
@@ -668,6 +723,7 @@
                 ],
                 "general": "斗"
             },
+            "converted_pinyin": "dou3",
             "id": "191",
             "pinyin": "dòu",
             "raw_pinyin": "dou",
@@ -684,6 +740,7 @@
             "chinese": {
                 "general": "髟"
             },
+            "converted_pinyin": "biao1",
             "id": "190",
             "pinyin": "biāo",
             "raw_pinyin": "biao",
@@ -703,6 +760,7 @@
                 ],
                 "general": "高"
             },
+            "converted_pinyin": "gao1",
             "id": "189",
             "pinyin": "gāo",
             "raw_pinyin": "gao",
@@ -719,6 +777,7 @@
             "chinese": {
                 "general": "骨"
             },
+            "converted_pinyin": "gu3",
             "id": "188",
             "pinyin": "gǔ",
             "raw_pinyin": "gu",
@@ -738,6 +797,7 @@
                 ],
                 "general": "马"
             },
+            "converted_pinyin": "ma3",
             "id": "187",
             "pinyin": "mǎ",
             "raw_pinyin": "ma",
@@ -754,6 +814,7 @@
             "chinese": {
                 "general": "香"
             },
+            "converted_pinyin": "xiang1",
             "id": "186",
             "pinyin": "xiāng",
             "raw_pinyin": "xiang",
@@ -770,6 +831,7 @@
             "chinese": {
                 "general": "首"
             },
+            "converted_pinyin": "shou3",
             "id": "185",
             "pinyin": "shǒu",
             "raw_pinyin": "shou",
@@ -795,6 +857,7 @@
                 ],
                 "general": "饣"
             },
+            "converted_pinyin": "shi2",
             "id": "184",
             "pinyin": "shí",
             "raw_pinyin": "shi",
@@ -819,6 +882,7 @@
                 ],
                 "general": "飞"
             },
+            "converted_pinyin": "fei1",
             "id": "183",
             "pinyin": "fēi",
             "raw_pinyin": "fei",
@@ -838,6 +902,7 @@
                 ],
                 "general": "风"
             },
+            "converted_pinyin": "feng1",
             "id": "182",
             "pinyin": "fēng",
             "raw_pinyin": "feng",
@@ -857,6 +922,7 @@
                 ],
                 "general": "页"
             },
+            "converted_pinyin": "ye4",
             "id": "181",
             "pinyin": "yè",
             "raw_pinyin": "ye",
@@ -873,6 +939,7 @@
             "chinese": {
                 "general": "音"
             },
+            "converted_pinyin": "yin1",
             "id": "180",
             "pinyin": "yīn",
             "raw_pinyin": "yin",
@@ -889,6 +956,7 @@
             "chinese": {
                 "general": "韭"
             },
+            "converted_pinyin": "jiu3",
             "id": "179",
             "pinyin": "jiǔ",
             "raw_pinyin": "jiu",
@@ -908,6 +976,7 @@
                 ],
                 "general": "韦"
             },
+            "converted_pinyin": "wei2",
             "id": "178",
             "pinyin": "wéi",
             "raw_pinyin": "wei",
@@ -924,6 +993,7 @@
             "chinese": {
                 "general": "革"
             },
+            "converted_pinyin": "ge2",
             "id": "177",
             "pinyin": "gé",
             "raw_pinyin": "ge",
@@ -943,6 +1013,7 @@
                 ],
                 "general": "面"
             },
+            "converted_pinyin": "mian4",
             "id": "176",
             "pinyin": "miàn",
             "raw_pinyin": "mian",
@@ -959,6 +1030,7 @@
             "chinese": {
                 "general": "非"
             },
+            "converted_pinyin": "fei1",
             "id": "175",
             "pinyin": "fēi",
             "raw_pinyin": "fei",
@@ -983,6 +1055,7 @@
                 ],
                 "general": "青"
             },
+            "converted_pinyin": "qing1",
             "id": "174",
             "pinyin": "qīng",
             "raw_pinyin": "qing",
@@ -1004,6 +1077,7 @@
             "chinese": {
                 "general": "雨"
             },
+            "converted_pinyin": "yu3",
             "id": "173",
             "pinyin": "yǔ",
             "raw_pinyin": "yu",
@@ -1020,6 +1094,7 @@
             "chinese": {
                 "general": "隹"
             },
+            "converted_pinyin": "zhui1",
             "id": "172",
             "pinyin": "zhuī",
             "raw_pinyin": "zhui",
@@ -1036,6 +1111,7 @@
             "chinese": {
                 "general": "隶"
             },
+            "converted_pinyin": "li4",
             "id": "171",
             "pinyin": "lì",
             "raw_pinyin": "li",
@@ -1060,6 +1136,7 @@
                 ],
                 "general": "阝"
             },
+            "converted_pinyin": "fu4",
             "id": "170",
             "pinyin": "fù",
             "raw_pinyin": "fu",
@@ -1079,6 +1156,7 @@
                 ],
                 "general": "门"
             },
+            "converted_pinyin": "men2",
             "id": "169",
             "pinyin": "mén",
             "raw_pinyin": "men",
@@ -1099,6 +1177,7 @@
                 ],
                 "general": "长"
             },
+            "converted_pinyin": "chang2",
             "id": "168",
             "pinyin": "cháng",
             "raw_pinyin": "chang",
@@ -1124,6 +1203,7 @@
                 ],
                 "general": "钅"
             },
+            "converted_pinyin": "jin1",
             "id": "167",
             "pinyin": "jīn",
             "raw_pinyin": "jin",
@@ -1145,6 +1225,7 @@
             "chinese": {
                 "general": "里"
             },
+            "converted_pinyin": "li3",
             "id": "166",
             "pinyin": "lǐ",
             "raw_pinyin": "li",
@@ -1166,6 +1247,7 @@
             "chinese": {
                 "general": "釆"
             },
+            "converted_pinyin": "bian4",
             "id": "165",
             "pinyin": "biàn",
             "raw_pinyin": "bian",
@@ -1187,6 +1269,7 @@
             "chinese": {
                 "general": "酉"
             },
+            "converted_pinyin": "you3",
             "id": "164",
             "pinyin": "yǒu",
             "raw_pinyin": "you",
@@ -1206,6 +1289,7 @@
                 ],
                 "general": "邑"
             },
+            "converted_pinyin": "yi4",
             "id": "163",
             "pinyin": "yì",
             "raw_pinyin": "yi",
@@ -1227,6 +1311,7 @@
                 ],
                 "general": "辵"
             },
+            "converted_pinyin": "chuo4",
             "id": "162",
             "pinyin": "chuò",
             "raw_pinyin": "chuo",
@@ -1243,6 +1328,7 @@
             "chinese": {
                 "general": "辰"
             },
+            "converted_pinyin": "chen2",
             "id": "161",
             "pinyin": "chén",
             "raw_pinyin": "chen",
@@ -1259,6 +1345,7 @@
             "chinese": {
                 "general": "辛"
             },
+            "converted_pinyin": "xin1",
             "id": "160",
             "pinyin": "xīn",
             "raw_pinyin": "xin",
@@ -1278,6 +1365,7 @@
                 ],
                 "general": "车"
             },
+            "converted_pinyin": "che1",
             "id": "159",
             "pinyin": "chē",
             "raw_pinyin": "che",
@@ -1299,6 +1387,7 @@
             "chinese": {
                 "general": "身"
             },
+            "converted_pinyin": "shen1",
             "id": "158",
             "pinyin": "shēn",
             "raw_pinyin": "shen",
@@ -1318,6 +1407,7 @@
                 ],
                 "general": "足"
             },
+            "converted_pinyin": "zu2",
             "id": "157",
             "pinyin": "zú",
             "raw_pinyin": "zu",
@@ -1337,6 +1427,7 @@
                 ],
                 "general": "走"
             },
+            "converted_pinyin": "zou3",
             "id": "156",
             "pinyin": "zǒu",
             "raw_pinyin": "zou",
@@ -1358,6 +1449,7 @@
             "chinese": {
                 "general": "赤"
             },
+            "converted_pinyin": "chi4",
             "id": "155",
             "pinyin": "chì",
             "raw_pinyin": "chi",
@@ -1377,6 +1469,7 @@
                 ],
                 "general": "贝"
             },
+            "converted_pinyin": "bei4",
             "id": "154",
             "pinyin": "bèi",
             "raw_pinyin": "bei",
@@ -1398,6 +1491,7 @@
             "chinese": {
                 "general": "豸"
             },
+            "converted_pinyin": "zhi4",
             "id": "153",
             "pinyin": "zhì",
             "raw_pinyin": "zhi",
@@ -1414,6 +1508,7 @@
             "chinese": {
                 "general": "豕"
             },
+            "converted_pinyin": "shi3",
             "id": "152",
             "pinyin": "shǐ",
             "raw_pinyin": "shi",
@@ -1430,6 +1525,7 @@
             "chinese": {
                 "general": "豆"
             },
+            "converted_pinyin": "dou4",
             "id": "151",
             "pinyin": "dòu",
             "raw_pinyin": "dou",
@@ -1446,6 +1542,7 @@
             "chinese": {
                 "general": "谷"
             },
+            "converted_pinyin": "gu3",
             "id": "150",
             "pinyin": "gǔ",
             "raw_pinyin": "gu",
@@ -1467,6 +1564,7 @@
                 ],
                 "general": "言"
             },
+            "converted_pinyin": "yan2",
             "id": "149",
             "pinyin": "yán",
             "raw_pinyin": "yan",
@@ -1483,6 +1581,7 @@
             "chinese": {
                 "general": "角"
             },
+            "converted_pinyin": "jiao3",
             "id": "148",
             "pinyin": "jiǎo",
             "raw_pinyin": "jiao",
@@ -1507,6 +1606,7 @@
                 ],
                 "general": "见"
             },
+            "converted_pinyin": "jian4",
             "id": "147",
             "pinyin": "jiàn",
             "raw_pinyin": "jian",
@@ -1532,6 +1632,7 @@
                 ],
                 "general": "襾"
             },
+            "converted_pinyin": "ya4",
             "id": "146",
             "pinyin": "yà",
             "raw_pinyin": "ya",
@@ -1556,6 +1657,7 @@
                 ],
                 "general": "衣"
             },
+            "converted_pinyin": "yi1",
             "id": "145",
             "pinyin": "yī",
             "raw_pinyin": "yi",
@@ -1572,6 +1674,7 @@
             "chinese": {
                 "general": "行"
             },
+            "converted_pinyin": "xing2",
             "id": "144",
             "pinyin": "xíng",
             "raw_pinyin": "xing",
@@ -1593,6 +1696,7 @@
             "chinese": {
                 "general": "血"
             },
+            "converted_pinyin": "xie3",
             "id": "143",
             "pinyin": "xuè",
             "raw_pinyin": "xie",
@@ -1609,6 +1713,7 @@
             "chinese": {
                 "general": "虫"
             },
+            "converted_pinyin": "chong2",
             "id": "142",
             "pinyin": "chóng",
             "raw_pinyin": "chong",
@@ -1630,6 +1735,7 @@
             "chinese": {
                 "general": "虍"
             },
+            "converted_pinyin": "hu1",
             "id": "141",
             "pinyin": "hū",
             "raw_pinyin": "hu",
@@ -1649,6 +1755,7 @@
                 ],
                 "general": "艸"
             },
+            "converted_pinyin": "cao3",
             "id": "140",
             "pinyin": "cǎo",
             "raw_pinyin": "cao",
@@ -1665,6 +1772,7 @@
             "chinese": {
                 "general": "色"
             },
+            "converted_pinyin": "se4",
             "id": "139",
             "pinyin": "sè",
             "raw_pinyin": "se",
@@ -1681,6 +1789,7 @@
             "chinese": {
                 "general": "艮"
             },
+            "converted_pinyin": "gen4",
             "id": "138",
             "pinyin": "gēn",
             "raw_pinyin": "gen",
@@ -1702,6 +1811,7 @@
             "chinese": {
                 "general": "舟"
             },
+            "converted_pinyin": "zhou1",
             "id": "137",
             "pinyin": "zhōu",
             "raw_pinyin": "zhou",
@@ -1723,6 +1833,7 @@
             "chinese": {
                 "general": "舛"
             },
+            "converted_pinyin": "chuan3",
             "id": "136",
             "pinyin": "chuǎn",
             "raw_pinyin": "chuan",
@@ -1744,6 +1855,7 @@
             "chinese": {
                 "general": "舌"
             },
+            "converted_pinyin": "she2",
             "id": "135",
             "pinyin": "shé",
             "raw_pinyin": "she",
@@ -1760,6 +1872,7 @@
             "chinese": {
                 "general": "臼"
             },
+            "converted_pinyin": "jiu4",
             "id": "134",
             "pinyin": "jiù",
             "raw_pinyin": "jiu",
@@ -1776,6 +1889,7 @@
             "chinese": {
                 "general": "至"
             },
+            "converted_pinyin": "zhi4",
             "id": "133",
             "pinyin": "zhì",
             "raw_pinyin": "zhi",
@@ -1797,6 +1911,7 @@
             "chinese": {
                 "general": "自"
             },
+            "converted_pinyin": "zi4",
             "id": "132",
             "pinyin": "zì",
             "raw_pinyin": "zi",
@@ -1818,6 +1933,7 @@
             "chinese": {
                 "general": "臣"
             },
+            "converted_pinyin": "chen2",
             "id": "131",
             "pinyin": "chén",
             "raw_pinyin": "chen",
@@ -1834,6 +1950,7 @@
             "chinese": {
                 "general": "肉"
             },
+            "converted_pinyin": "rou4",
             "id": "130",
             "pinyin": "ròu",
             "raw_pinyin": "rou",
@@ -1854,6 +1971,7 @@
                 ],
                 "general": "聿"
             },
+            "converted_pinyin": "yu4",
             "id": "129",
             "pinyin": "yù",
             "raw_pinyin": "yu",
@@ -1870,6 +1988,7 @@
             "chinese": {
                 "general": "耳"
             },
+            "converted_pinyin": "er3",
             "id": "128",
             "pinyin": "ěr",
             "raw_pinyin": "er",
@@ -1886,6 +2005,7 @@
             "chinese": {
                 "general": "耒"
             },
+            "converted_pinyin": "lei3",
             "id": "127",
             "pinyin": "lěi",
             "raw_pinyin": "lei",
@@ -1907,6 +2027,7 @@
             "chinese": {
                 "general": "而"
             },
+            "converted_pinyin": "er2",
             "id": "126",
             "pinyin": "ér",
             "raw_pinyin": "er",
@@ -1931,6 +2052,7 @@
                 ],
                 "general": "老"
             },
+            "converted_pinyin": "lao3",
             "id": "125",
             "pinyin": "lǎo",
             "raw_pinyin": "lao",
@@ -1947,6 +2069,7 @@
             "chinese": {
                 "general": "羽"
             },
+            "converted_pinyin": "yu3",
             "id": "124",
             "pinyin": "yǔ",
             "raw_pinyin": "yu",
@@ -1972,6 +2095,7 @@
                 ],
                 "general": "羊"
             },
+            "converted_pinyin": "yang2",
             "id": "123",
             "pinyin": "yáng",
             "raw_pinyin": "yang",
@@ -1993,6 +2117,7 @@
                 ],
                 "general": "网"
             },
+            "converted_pinyin": "wang3",
             "id": "122",
             "pinyin": "wǎng",
             "raw_pinyin": "wang",
@@ -2009,6 +2134,7 @@
             "chinese": {
                 "general": "缶"
             },
+            "converted_pinyin": "fou3",
             "id": "121",
             "pinyin": "fǒu",
             "raw_pinyin": "fou",
@@ -2034,6 +2160,7 @@
                 ],
                 "general": "纟"
             },
+            "converted_pinyin": "si1",
             "id": "120",
             "pinyin": "mì",
             "raw_pinyin": "si",
@@ -2055,6 +2182,7 @@
             "chinese": {
                 "general": "米"
             },
+            "converted_pinyin": "mi3",
             "id": "119",
             "pinyin": "mǐ",
             "raw_pinyin": "mi",
@@ -2074,6 +2202,7 @@
                 ],
                 "general": "竹"
             },
+            "converted_pinyin": "zhu2",
             "id": "118",
             "pinyin": "zhú",
             "raw_pinyin": "zhu",
@@ -2090,6 +2219,7 @@
             "chinese": {
                 "general": "立"
             },
+            "converted_pinyin": "li4",
             "id": "117",
             "pinyin": "lì",
             "raw_pinyin": "li",
@@ -2106,6 +2236,7 @@
             "chinese": {
                 "general": "穴"
             },
+            "converted_pinyin": "xue2",
             "id": "116",
             "pinyin": "xué",
             "raw_pinyin": "xue",
@@ -2122,6 +2253,7 @@
             "chinese": {
                 "general": "禾"
             },
+            "converted_pinyin": "he2",
             "id": "115",
             "pinyin": "hé",
             "raw_pinyin": "he",
@@ -2138,6 +2270,7 @@
             "chinese": {
                 "general": "禸"
             },
+            "converted_pinyin": "rou2",
             "id": "114",
             "pinyin": "róu",
             "raw_pinyin": "rou",
@@ -2157,6 +2290,7 @@
                 ],
                 "general": "示"
             },
+            "converted_pinyin": "shi4",
             "id": "113",
             "pinyin": "shì",
             "raw_pinyin": "shi",
@@ -2178,6 +2312,7 @@
             "chinese": {
                 "general": "石"
             },
+            "converted_pinyin": "shi2",
             "id": "112",
             "pinyin": "shí",
             "raw_pinyin": "shi",
@@ -2194,6 +2329,7 @@
             "chinese": {
                 "general": "矢"
             },
+            "converted_pinyin": "shi3",
             "id": "111",
             "pinyin": "shǐ",
             "raw_pinyin": "shi",
@@ -2210,6 +2346,7 @@
             "chinese": {
                 "general": "矛"
             },
+            "converted_pinyin": "mao2",
             "id": "110",
             "pinyin": "máo",
             "raw_pinyin": "mao",
@@ -2226,6 +2363,7 @@
             "chinese": {
                 "general": "目"
             },
+            "converted_pinyin": "mu4",
             "id": "109",
             "pinyin": "mù",
             "raw_pinyin": "mu",
@@ -2242,6 +2380,7 @@
             "chinese": {
                 "general": "皿"
             },
+            "converted_pinyin": "min3",
             "id": "108",
             "pinyin": "mǐn",
             "raw_pinyin": "min",
@@ -2263,6 +2402,7 @@
             "chinese": {
                 "general": "皮"
             },
+            "converted_pinyin": "pi2",
             "id": "107",
             "pinyin": "pí",
             "raw_pinyin": "pi",
@@ -2284,6 +2424,7 @@
             "chinese": {
                 "general": "白"
             },
+            "converted_pinyin": "bai2",
             "id": "106",
             "pinyin": "bái",
             "raw_pinyin": "bai",
@@ -2300,6 +2441,7 @@
             "chinese": {
                 "general": "癶"
             },
+            "converted_pinyin": "bo1",
             "id": "105",
             "pinyin": "bō",
             "raw_pinyin": "bo",
@@ -2316,6 +2458,7 @@
             "chinese": {
                 "general": "疒"
             },
+            "converted_pinyin": "chuang2",
             "id": "104",
             "pinyin": "chuáng",
             "raw_pinyin": "chuang",
@@ -2335,6 +2478,7 @@
                 ],
                 "general": "疋"
             },
+            "converted_pinyin": "pi3",
             "id": "103",
             "pinyin": "pǐ",
             "raw_pinyin": "pi",
@@ -2356,6 +2500,7 @@
             "chinese": {
                 "general": "田"
             },
+            "converted_pinyin": "tian2",
             "id": "102",
             "pinyin": "tián",
             "raw_pinyin": "tian",
@@ -2375,6 +2520,7 @@
                 ],
                 "general": "用"
             },
+            "converted_pinyin": "yong4",
             "id": "101",
             "pinyin": "yòng",
             "raw_pinyin": "yong",
@@ -2396,6 +2542,7 @@
             "chinese": {
                 "general": "生"
             },
+            "converted_pinyin": "sheng1",
             "id": "100",
             "pinyin": "shēng",
             "raw_pinyin": "sheng",
@@ -2417,6 +2564,7 @@
             "chinese": {
                 "general": "甘"
             },
+            "converted_pinyin": "gan1",
             "id": "99",
             "pinyin": "gān",
             "raw_pinyin": "gan",
@@ -2433,6 +2581,7 @@
             "chinese": {
                 "general": "瓦"
             },
+            "converted_pinyin": "wa3",
             "id": "98",
             "pinyin": "wǎ",
             "raw_pinyin": "wa",
@@ -2449,6 +2598,7 @@
             "chinese": {
                 "general": "瓜"
             },
+            "converted_pinyin": "gua1",
             "id": "97",
             "pinyin": "guā",
             "raw_pinyin": "gua",
@@ -2470,6 +2620,7 @@
             "chinese": {
                 "general": "玉"
             },
+            "converted_pinyin": "yu4",
             "id": "96",
             "pinyin": "yù",
             "raw_pinyin": "yu",
@@ -2486,6 +2637,7 @@
             "chinese": {
                 "general": "玄"
             },
+            "converted_pinyin": "xuan2",
             "id": "95",
             "pinyin": "xuán",
             "raw_pinyin": "xuan",
@@ -2510,6 +2662,7 @@
                 ],
                 "general": "犬"
             },
+            "converted_pinyin": "quan3",
             "id": "94",
             "pinyin": "quǎn",
             "raw_pinyin": "quan",
@@ -2530,6 +2683,7 @@
                 ],
                 "general": "牛"
             },
+            "converted_pinyin": "niu2",
             "id": "93",
             "pinyin": "niú",
             "raw_pinyin": "niu",
@@ -2551,6 +2705,7 @@
             "chinese": {
                 "general": "牙"
             },
+            "converted_pinyin": "ya2",
             "id": "92",
             "pinyin": "yá",
             "raw_pinyin": "ya",
@@ -2567,6 +2722,7 @@
             "chinese": {
                 "general": "片"
             },
+            "converted_pinyin": "pian4",
             "id": "91",
             "pinyin": "piàn",
             "raw_pinyin": "pian",
@@ -2591,6 +2747,7 @@
                 ],
                 "general": "爿"
             },
+            "converted_pinyin": "qiang2",
             "id": "90",
             "pinyin": "qiáng",
             "raw_pinyin": "qiang",
@@ -2612,6 +2769,7 @@
             "chinese": {
                 "general": "爻"
             },
+            "converted_pinyin": "yao2",
             "id": "89",
             "pinyin": "yáo",
             "raw_pinyin": "yao",
@@ -2633,6 +2791,7 @@
             "chinese": {
                 "general": "父"
             },
+            "converted_pinyin": "fu4",
             "id": "88",
             "pinyin": "fù",
             "raw_pinyin": "fu",
@@ -2652,6 +2811,7 @@
                 ],
                 "general": "爪"
             },
+            "converted_pinyin": "zhua3",
             "id": "87",
             "pinyin": "zhǎo",
             "raw_pinyin": "zhua",
@@ -2671,6 +2831,7 @@
                 ],
                 "general": "火"
             },
+            "converted_pinyin": "huo3",
             "id": "86",
             "pinyin": "huǒ",
             "raw_pinyin": "huo",
@@ -2691,6 +2852,7 @@
                 ],
                 "general": "水"
             },
+            "converted_pinyin": "shui3",
             "id": "85",
             "pinyin": "shuǐ",
             "raw_pinyin": "shui",
@@ -2707,6 +2869,7 @@
             "chinese": {
                 "general": "气"
             },
+            "converted_pinyin": "qi4",
             "id": "84",
             "pinyin": "qì",
             "raw_pinyin": "qi",
@@ -2728,6 +2891,7 @@
             "chinese": {
                 "general": "氏"
             },
+            "converted_pinyin": "shi4",
             "id": "83",
             "pinyin": "shì",
             "raw_pinyin": "shi",
@@ -2749,6 +2913,7 @@
             "chinese": {
                 "general": "毛"
             },
+            "converted_pinyin": "mao2",
             "id": "82",
             "pinyin": "máo",
             "raw_pinyin": "mao",
@@ -2770,6 +2935,7 @@
             "chinese": {
                 "general": "比"
             },
+            "converted_pinyin": "bi3",
             "id": "81",
             "pinyin": "bǐ",
             "raw_pinyin": "bi",
@@ -2786,6 +2952,7 @@
             "chinese": {
                 "general": "毋"
             },
+            "converted_pinyin": "wu2",
             "id": "80",
             "pinyin": "wú",
             "raw_pinyin": "wu",
@@ -2807,6 +2974,7 @@
             "chinese": {
                 "general": "殳"
             },
+            "converted_pinyin": "shu1",
             "id": "79",
             "pinyin": "shū",
             "raw_pinyin": "shu",
@@ -2826,6 +2994,7 @@
                 ],
                 "general": "歹"
             },
+            "converted_pinyin": "dai3",
             "id": "78",
             "pinyin": "dǎi",
             "raw_pinyin": "dai",
@@ -2847,6 +3016,7 @@
             "chinese": {
                 "general": "止"
             },
+            "converted_pinyin": "zhi3",
             "id": "77",
             "pinyin": "zhǐ",
             "raw_pinyin": "zhi",
@@ -2868,6 +3038,7 @@
             "chinese": {
                 "general": "欠"
             },
+            "converted_pinyin": "qian4",
             "id": "76",
             "pinyin": "qiàn",
             "raw_pinyin": "qian",
@@ -2884,6 +3055,7 @@
             "chinese": {
                 "general": "木"
             },
+            "converted_pinyin": "mu4",
             "id": "75",
             "pinyin": "mù",
             "raw_pinyin": "mu",
@@ -2900,6 +3072,7 @@
             "chinese": {
                 "general": "月"
             },
+            "converted_pinyin": "yue4",
             "id": "74",
             "pinyin": "yuè",
             "raw_pinyin": "yue",
@@ -2916,6 +3089,7 @@
             "chinese": {
                 "general": "曰"
             },
+            "converted_pinyin": "yue1",
             "id": "73",
             "pinyin": "yuē",
             "raw_pinyin": "yue",
@@ -2932,6 +3106,7 @@
             "chinese": {
                 "general": "日"
             },
+            "converted_pinyin": "ri4",
             "id": "72",
             "pinyin": "rì",
             "raw_pinyin": "ri",
@@ -2948,6 +3123,7 @@
             "chinese": {
                 "general": "无"
             },
+            "converted_pinyin": "wu2",
             "id": "71",
             "pinyin": "wú",
             "raw_pinyin": "wu",
@@ -2969,6 +3145,7 @@
             "chinese": {
                 "general": "方"
             },
+            "converted_pinyin": "fang1",
             "id": "70",
             "pinyin": "fāng",
             "raw_pinyin": "fang",
@@ -2990,6 +3167,7 @@
             "chinese": {
                 "general": "斤"
             },
+            "converted_pinyin": "jin1",
             "id": "69",
             "pinyin": "jīn",
             "raw_pinyin": "jin",
@@ -3006,6 +3184,7 @@
             "chinese": {
                 "general": "斗"
             },
+            "converted_pinyin": "dou3",
             "id": "68",
             "pinyin": "dǒu",
             "raw_pinyin": "dou",
@@ -3027,6 +3206,7 @@
             "chinese": {
                 "general": "文"
             },
+            "converted_pinyin": "wen2",
             "id": "67",
             "pinyin": "wén",
             "raw_pinyin": "wen",
@@ -3051,6 +3231,7 @@
                 ],
                 "general": "攴"
             },
+            "converted_pinyin": "pu1",
             "id": "66",
             "pinyin": "pū",
             "raw_pinyin": "pu",
@@ -3072,6 +3253,7 @@
             "chinese": {
                 "general": "支"
             },
+            "converted_pinyin": "zhi1",
             "id": "65",
             "pinyin": "zhī",
             "raw_pinyin": "zhi",
@@ -3092,6 +3274,7 @@
                 ],
                 "general": "手"
             },
+            "converted_pinyin": "shou3",
             "id": "64",
             "pinyin": "shǒu",
             "raw_pinyin": "shou",
@@ -3112,6 +3295,7 @@
                 ],
                 "general": "户"
             },
+            "converted_pinyin": "hu4",
             "id": "63",
             "pinyin": "hù",
             "raw_pinyin": "hu",
@@ -3128,6 +3312,7 @@
             "chinese": {
                 "general": "戈"
             },
+            "converted_pinyin": "ge1",
             "id": "62",
             "pinyin": "gē",
             "raw_pinyin": "ge",
@@ -3153,6 +3338,7 @@
                 ],
                 "general": "心"
             },
+            "converted_pinyin": "xin1",
             "id": "61",
             "pinyin": "xīn",
             "raw_pinyin": "xin",
@@ -3169,6 +3355,7 @@
             "chinese": {
                 "general": "彳"
             },
+            "converted_pinyin": "chi4",
             "id": "60",
             "pinyin": "chì",
             "raw_pinyin": "chi",
@@ -3185,6 +3372,7 @@
             "chinese": {
                 "general": "彡"
             },
+            "converted_pinyin": "shan1",
             "id": "59",
             "pinyin": "shān",
             "raw_pinyin": "shan",
@@ -3209,6 +3397,7 @@
                 ],
                 "general": "彐"
             },
+            "converted_pinyin": "ji4",
             "id": "58",
             "pinyin": "jì",
             "raw_pinyin": "ji",
@@ -3225,6 +3414,7 @@
             "chinese": {
                 "general": "弓"
             },
+            "converted_pinyin": "gong1",
             "id": "57",
             "pinyin": "gōng",
             "raw_pinyin": "gong",
@@ -3241,6 +3431,7 @@
             "chinese": {
                 "general": "弋"
             },
+            "converted_pinyin": "yi4",
             "id": "56",
             "pinyin": "yì",
             "raw_pinyin": "yi",
@@ -3257,6 +3448,7 @@
             "chinese": {
                 "general": "廾"
             },
+            "converted_pinyin": "gong3",
             "id": "55",
             "pinyin": "gǒng",
             "raw_pinyin": "gong",
@@ -3273,6 +3465,7 @@
             "chinese": {
                 "general": "廴"
             },
+            "converted_pinyin": "yin3",
             "id": "54",
             "pinyin": "yǐn",
             "raw_pinyin": "yin",
@@ -3294,6 +3487,7 @@
             "chinese": {
                 "general": "广"
             },
+            "converted_pinyin": "guang3",
             "id": "53",
             "pinyin": "guǎng",
             "raw_pinyin": "yan",
@@ -3310,6 +3504,7 @@
             "chinese": {
                 "general": "幺"
             },
+            "converted_pinyin": "yao1",
             "id": "52",
             "pinyin": "yāo",
             "raw_pinyin": "yao",
@@ -3331,6 +3526,7 @@
             "chinese": {
                 "general": "干"
             },
+            "converted_pinyin": "gan1",
             "id": "51",
             "pinyin": "gān",
             "raw_pinyin": "gan",
@@ -3352,6 +3548,7 @@
             "chinese": {
                 "general": "巾"
             },
+            "converted_pinyin": "jin1",
             "id": "50",
             "pinyin": "jīn",
             "raw_pinyin": "jin",
@@ -3377,6 +3574,7 @@
                 ],
                 "general": "己"
             },
+            "converted_pinyin": "ji3",
             "id": "49",
             "pinyin": "jǐ",
             "raw_pinyin": "ji",
@@ -3393,6 +3591,7 @@
             "chinese": {
                 "general": "工"
             },
+            "converted_pinyin": "gong1",
             "id": "48",
             "pinyin": "gōng",
             "raw_pinyin": "gong",
@@ -3413,6 +3612,7 @@
                 ],
                 "general": "巛"
             },
+            "converted_pinyin": "chuan1",
             "id": "47",
             "pinyin": "chuān",
             "raw_pinyin": "chuan",
@@ -3434,6 +3634,7 @@
             "chinese": {
                 "general": "山"
             },
+            "converted_pinyin": "shan1",
             "id": "46",
             "pinyin": "shān",
             "raw_pinyin": "shan",
@@ -3450,6 +3651,7 @@
             "chinese": {
                 "general": "屮"
             },
+            "converted_pinyin": "che4",
             "id": "45",
             "pinyin": "chè",
             "raw_pinyin": "che",
@@ -3466,6 +3668,7 @@
             "chinese": {
                 "general": "尸"
             },
+            "converted_pinyin": "shi1",
             "id": "44",
             "pinyin": "shī",
             "raw_pinyin": "shi",
@@ -3485,6 +3688,7 @@
                 ],
                 "general": "尢"
             },
+            "converted_pinyin": "wang1",
             "id": "43",
             "pinyin": "wāng",
             "raw_pinyin": "wang",
@@ -3505,6 +3709,7 @@
                 ],
                 "general": "小"
             },
+            "converted_pinyin": "xiao3",
             "id": "42",
             "pinyin": "xiǎo",
             "raw_pinyin": "xiao",
@@ -3521,6 +3726,7 @@
             "chinese": {
                 "general": "寸"
             },
+            "converted_pinyin": "cun4",
             "id": "41",
             "pinyin": "cùn",
             "raw_pinyin": "cun",
@@ -3537,6 +3743,7 @@
             "chinese": {
                 "general": "宀"
             },
+            "converted_pinyin": "mian2",
             "id": "40",
             "pinyin": "mián",
             "raw_pinyin": "mian",
@@ -3558,6 +3765,7 @@
             "chinese": {
                 "general": "子"
             },
+            "converted_pinyin": "zi3",
             "id": "39",
             "pinyin": "zǐ",
             "raw_pinyin": "zi",
@@ -3579,6 +3787,7 @@
             "chinese": {
                 "general": "女"
             },
+            "converted_pinyin": "nv3",
             "id": "38",
             "pinyin": "nǚ",
             "raw_pinyin": "nu",
@@ -3595,6 +3804,7 @@
             "chinese": {
                 "general": "大"
             },
+            "converted_pinyin": "da4",
             "id": "37",
             "pinyin": "dà",
             "raw_pinyin": "da",
@@ -3611,6 +3821,7 @@
             "chinese": {
                 "general": "夕"
             },
+            "converted_pinyin": "xi1",
             "id": "36",
             "pinyin": "xī",
             "raw_pinyin": "xi",
@@ -3627,6 +3838,7 @@
             "chinese": {
                 "general": "夊"
             },
+            "converted_pinyin": "sui1",
             "id": "35",
             "pinyin": "suī",
             "raw_pinyin": "sui",
@@ -3648,6 +3860,7 @@
             "chinese": {
                 "general": "夂"
             },
+            "converted_pinyin": "zhi3",
             "id": "34",
             "pinyin": "zhǐ",
             "raw_pinyin": "zhi",
@@ -3669,6 +3882,7 @@
             "chinese": {
                 "general": "士"
             },
+            "converted_pinyin": "shi4",
             "id": "33",
             "pinyin": "shì",
             "raw_pinyin": "shi",
@@ -3685,6 +3899,7 @@
             "chinese": {
                 "general": "土"
             },
+            "converted_pinyin": "tu3",
             "id": "32",
             "pinyin": "tǔ",
             "raw_pinyin": "tu",
@@ -3701,6 +3916,7 @@
             "chinese": {
                 "general": "囗"
             },
+            "converted_pinyin": "wei2",
             "id": "31",
             "pinyin": "wéi",
             "raw_pinyin": "wei",
@@ -3722,6 +3938,7 @@
             "chinese": {
                 "general": "口"
             },
+            "converted_pinyin": "kou3",
             "id": "30",
             "pinyin": "kǒu",
             "raw_pinyin": "kou",
@@ -3738,6 +3955,7 @@
             "chinese": {
                 "general": "又"
             },
+            "converted_pinyin": "you4",
             "id": "29",
             "pinyin": "yòu",
             "raw_pinyin": "you",
@@ -3759,6 +3977,7 @@
             "chinese": {
                 "general": "厶"
             },
+            "converted_pinyin": "si1",
             "id": "28",
             "pinyin": "sī",
             "raw_pinyin": "si",
@@ -3780,6 +3999,7 @@
             "chinese": {
                 "general": "厂"
             },
+            "converted_pinyin": "chang3",
             "id": "27",
             "pinyin": "chǎng",
             "raw_pinyin": "han",
@@ -3804,6 +4024,7 @@
                 ],
                 "general": "卩"
             },
+            "converted_pinyin": "jie2",
             "id": "26",
             "pinyin": "jié",
             "raw_pinyin": "jie",
@@ -3825,6 +4046,7 @@
             "chinese": {
                 "general": "卜"
             },
+            "converted_pinyin": "bu3",
             "id": "25",
             "pinyin": "bǔ",
             "raw_pinyin": "bu",
@@ -3841,6 +4063,7 @@
             "chinese": {
                 "general": "十"
             },
+            "converted_pinyin": "shi2",
             "id": "24",
             "pinyin": "shí",
             "raw_pinyin": "shi",
@@ -3857,6 +4080,7 @@
             "chinese": {
                 "general": "匸"
             },
+            "converted_pinyin": "xi3",
             "id": "23",
             "pinyin": "xì",
             "raw_pinyin": "xi",
@@ -3873,6 +4097,7 @@
             "chinese": {
                 "general": "匚"
             },
+            "converted_pinyin": "fang1",
             "id": "22",
             "pinyin": "fāng",
             "raw_pinyin": "fang",
@@ -3894,6 +4119,7 @@
             "chinese": {
                 "general": "匕"
             },
+            "converted_pinyin": "bi3",
             "id": "21",
             "pinyin": "bǐ",
             "raw_pinyin": "bi",
@@ -3915,6 +4141,7 @@
             "chinese": {
                 "general": "勹"
             },
+            "converted_pinyin": "bao1",
             "id": "20",
             "pinyin": "bāo",
             "raw_pinyin": "bao",
@@ -3931,6 +4158,7 @@
             "chinese": {
                 "general": "力"
             },
+            "converted_pinyin": "li4",
             "id": "19",
             "pinyin": "lì",
             "raw_pinyin": "li",
@@ -3950,6 +4178,7 @@
                 ],
                 "general": "刀"
             },
+            "converted_pinyin": "dao1",
             "id": "18",
             "pinyin": "dāo",
             "raw_pinyin": "dao",
@@ -3966,6 +4195,7 @@
             "chinese": {
                 "general": "凵"
             },
+            "converted_pinyin": "qu1",
             "id": "17",
             "pinyin": "kǎn",
             "raw_pinyin": "qu",
@@ -3982,6 +4212,7 @@
             "chinese": {
                 "general": "几"
             },
+            "converted_pinyin": "ji1",
             "id": "16",
             "pinyin": "jī",
             "raw_pinyin": "ji",
@@ -4003,6 +4234,7 @@
             "chinese": {
                 "general": "冫"
             },
+            "converted_pinyin": "bing1",
             "id": "15",
             "pinyin": "bīng",
             "raw_pinyin": "bing",
@@ -4019,6 +4251,7 @@
             "chinese": {
                 "general": "冖"
             },
+            "converted_pinyin": "mi4",
             "id": "14",
             "pinyin": "mì",
             "raw_pinyin": "mi",
@@ -4035,6 +4268,7 @@
             "chinese": {
                 "general": "冂"
             },
+            "converted_pinyin": "jiong1",
             "id": "13",
             "pinyin": "jiōng",
             "raw_pinyin": "jiong",
@@ -4051,6 +4285,7 @@
             "chinese": {
                 "general": "八"
             },
+            "converted_pinyin": "ba1",
             "id": "12",
             "pinyin": "bā",
             "raw_pinyin": "ba",
@@ -4072,6 +4307,7 @@
             "chinese": {
                 "general": "入"
             },
+            "converted_pinyin": "ru4",
             "id": "11",
             "pinyin": "rù",
             "raw_pinyin": "ru",
@@ -4088,6 +4324,7 @@
             "chinese": {
                 "general": "儿"
             },
+            "converted_pinyin": "er2",
             "id": "10",
             "pinyin": "ér",
             "raw_pinyin": "er",
@@ -4107,6 +4344,7 @@
                 ],
                 "general": "人"
             },
+            "converted_pinyin": "ren2",
             "id": "9",
             "pinyin": "rén",
             "raw_pinyin": "ren",
@@ -4123,6 +4361,7 @@
             "chinese": {
                 "general": "亠"
             },
+            "converted_pinyin": "tou2",
             "id": "8",
             "pinyin": "tóu",
             "raw_pinyin": "tou",
@@ -4139,6 +4378,7 @@
             "chinese": {
                 "general": "二"
             },
+            "converted_pinyin": "er4",
             "id": "7",
             "pinyin": "èr",
             "raw_pinyin": "er",
@@ -4155,6 +4395,7 @@
             "chinese": {
                 "general": "亅"
             },
+            "converted_pinyin": "jue2",
             "id": "6",
             "pinyin": "jué",
             "raw_pinyin": "jue",
@@ -4174,6 +4415,7 @@
                 ],
                 "general": "乙"
             },
+            "converted_pinyin": "yi3",
             "id": "5",
             "pinyin": "yǐ",
             "raw_pinyin": "yi",
@@ -4190,6 +4432,7 @@
             "chinese": {
                 "general": "丿"
             },
+            "converted_pinyin": "pie3",
             "id": "4",
             "pinyin": "piě",
             "raw_pinyin": "pie",
@@ -4206,6 +4449,7 @@
             "chinese": {
                 "general": "丶"
             },
+            "converted_pinyin": "zhu3",
             "id": "3",
             "pinyin": "zhǔ",
             "raw_pinyin": "zhu",
@@ -4222,6 +4466,7 @@
             "chinese": {
                 "general": "丨"
             },
+            "converted_pinyin": "gun3",
             "id": "2",
             "pinyin": "gǔn",
             "raw_pinyin": "gun",
@@ -4238,6 +4483,7 @@
             "chinese": {
                 "general": "一"
             },
+            "converted_pinyin": "yi1",
             "id": "1",
             "pinyin": "yī",
             "raw_pinyin": "yi",

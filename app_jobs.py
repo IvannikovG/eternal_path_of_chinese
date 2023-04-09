@@ -6,6 +6,7 @@ from parser import *
 from types import SimpleNamespace
 from typing import BinaryIO
 import pypandoc
+import pinyin
 
 
 # with open('resources.json', 'r', encoding='utf-8') as file:

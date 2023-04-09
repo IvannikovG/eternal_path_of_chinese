@@ -1,5 +1,6 @@
 from typing import Dict, Union
 from unidecode import unidecode
+import pinyin
 
 pluck = lambda d, *args: (d[arg] for arg in args)
 
@@ -55,13 +56,14 @@ def parse_header(header: str) -> dict:
     split_header = header.split("-")
     hieroglyph_id = split_header[0].strip()
     chinese = split_header[1].strip()
-    pinyin = split_header[2].strip()
+    py = split_header[2].strip()  # written pinyin
     translation = get_by_index(split_header, 3)
     parsed_translation = parse_translation(translation)
     return {'hieroglyph_id': hieroglyph_id,
             'chinese': chinese,
+            'converted_pinyin': pinyin.get(chinese, format="numerical", delimiter=" "),
             'raw_pinyin': unidecode(chinese).lower().strip(),
-            'pinyin': pinyin,
+            'pinyin': py,
             'translation': parsed_translation}
 
 
@@ -83,11 +85,12 @@ def parse_line(line: str) -> Dict[str, Union[dict, str]]:
         stripped_line = line.strip()
         split_line = stripped_line.split("-")
         chinese = split_line[0].strip()
-        pinyin = split_line[1].strip()
+        py = split_line[1].strip()
         translation = get_by_index(split_line, 2)
         parsed_translation = parse_translation(translation)
         return {'chinese': chinese,
-                'pinyin': pinyin,
+                'converted_pinyin': pinyin.get(chinese, format="numerical", delimiter=" "),
+                'pinyin': py,
                 'translation': parsed_translation}
     except Exception as e:
         print("Exception in parse parse line: ", e)
@@ -130,13 +133,14 @@ def parse_g_header(header: str) -> dict:
     split_header = header.split("-")
     hieroglyph_id = split_header[0].strip()
     chinese = split_header[1].strip()
-    pinyin = split_header[2].strip()
+    py = split_header[2].strip()
     translation = get_by_index(split_header, 3)
     parsed_translation = parse_translation(translation)
     return {'id': hieroglyph_id,
             'chinese': chinese,
+            'converted_pinyin': pinyin.get(chinese, format="numerical", delimiter=" "),
             'raw_pinyin': unidecode(chinese).lower().strip(),
-            'pinyin': pinyin,
+            'pinyin': py,
             'translation': parsed_translation}
 
 
