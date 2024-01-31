@@ -2,6 +2,86 @@
     {
         "resource": {
             "chinese": {
+                "general": "尤"
+            },
+            "converted_pinyin": "you2",
+            "id": "234",
+            "pinyin": "yóu",
+            "raw_pinyin": "you",
+            "translation": {
+                "de": [],
+                "en": [
+                    "especially"
+                ],
+                "esp": [],
+                "ru": [
+                    "особенно"
+                ],
+                "srb": []
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "糸"
+            },
+            "converted_pinyin": "mi4",
+            "id": "233",
+            "pinyin": "mì",
+            "raw_pinyin": "mi",
+            "translation": {
+                "ru": [
+                    "шелк"
+                ]
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "阜"
+            },
+            "converted_pinyin": "fu4",
+            "id": "232",
+            "pinyin": "fù",
+            "raw_pinyin": "fu",
+            "translation": {
+                "ru": [
+                    "насыпь"
+                ]
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
+                "general": "黄"
+            },
+            "converted_pinyin": "huang2",
+            "id": "231",
+            "pinyin": "huāng",
+            "raw_pinyin": "huang",
+            "translation": {
+                "de": [],
+                "en": [
+                    "yellow"
+                ],
+                "esp": [],
+                "ru": [
+                    "желтый"
+                ],
+                "srb": []
+            },
+            "type": "grapheme"
+        }
+    },
+    {
+        "resource": {
+            "chinese": {
                 "general": "合"
             },
             "converted_pinyin": "he2",
@@ -853,9 +933,9 @@
             "chinese": {
                 "additional": [
                     "飠",
-                    "食"
+                    "饣"
                 ],
-                "general": "饣"
+                "general": "食"
             },
             "converted_pinyin": "shi2",
             "id": "184",
@@ -1199,9 +1279,9 @@
             "chinese": {
                 "additional": [
                     "釒",
-                    "金"
+                    "钅"
                 ],
-                "general": "钅"
+                "general": "金"
             },
             "converted_pinyin": "jin1",
             "id": "167",

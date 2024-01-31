@@ -5,6 +5,7 @@ import csv
 import pandas as pd
 from unidecode import unidecode
 import pinyin
+import chinese_converter
 
 
 def parse_one_hanzi_page(page_uri):
@@ -88,6 +89,7 @@ def sync_hanzidb():
     df = pd.read_csv('hanzidb_output.csv')
     df['converted_pinyin'] = df.apply(lambda x: pinyin.get(x[0].lower().strip(), format="numerical", delimiter=" "), axis=1)
     df['raw_pinyin'] = df.apply(lambda x: unidecode(str(x['N/A'])).lower().strip(), axis=1)
+    df['simplified_chinese'] = df.apply(lambda x: chinese_converter.to_simplified(str(x['Radical'])), axis=1)
     df = df.rename(columns={'Stroke count': 'stroke_count', 'HSK level': 'hsk_level',
                             'Frequency rank': 'frequency_rank',
                             'Id in Standard specification': 'id_in_standard_specification'})
@@ -96,8 +98,8 @@ def sync_hanzidb():
 
 if __name__ == '__main__':
     print("Syncing HanziDB!")
-    sync_hanzidb()
+    # sync_hanzidb()
     df = pd.read_csv('hanzidb_output.csv')
     # df['raw_pinyin'] = df.apply(lambda x: unidecode(str(x['N/A'])).lower().strip(), axis=1) #unidecode(str(x['N/A'])).lower().strip())
-    print(df.head(10))
+    print(df['simplified_chinese'].unique())
     print('Haha: OK', "谢谢你")

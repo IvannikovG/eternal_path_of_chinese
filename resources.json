@@ -1,5 +1,26 @@
 [
     {
+        "created": "2024-01-31T15:36:07+00:00",
+        "examples": [],
+        "graphemes": [
+            "手",
+            "力",
+            "口"
+        ],
+        "resource": {
+            "chinese": "招",
+            "converted_pinyin": "zhao1",
+            "hieroglyph_id": "1243",
+            "pinyin": "zhāo",
+            "raw_pinyin": "zhao",
+            "translation": {
+                "ru": [
+                    ""
+                ]
+            }
+        }
+    },
+    {
         "created": "2024-01-26T12:30:17+00:00",
         "examples": [
             {
@@ -70,7 +91,7 @@
                 "pinyin": "dòudòu",
                 "translation": {
                     "ru": [
-                        "прыщь"
+                        "прыщ"
                     ]
                 }
             }
